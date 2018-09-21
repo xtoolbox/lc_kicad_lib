@@ -1,0 +1,212 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# TO-252-2 LM317AL-TN3-R
+#
+DEF TO-252-2_LM317AL-TN3-R VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "TO-252-2 LM317AL-TN3-R" -250 650 50 H I L BNN
+F2 "lc_lib:TO-252-2-180" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_76635.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "TO-252-2" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C75510" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "LM317AL-TN3-R" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 2 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TO-252-2 L78M05ABDT-TR
+#
+DEF TO-252-2_L78M05ABDT-TR VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "TO-252-2 L78M05ABDT-TR" -250 650 50 H I L BNN
+F2 "lc_lib:TO-252-2-180" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_59107.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "TO-252-2" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C58069" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "L78M05ABDT-TR" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 1 -300 400 200 R 50 50 1 1 P
+X GND 2 200 0 200 U 50 50 1 1 P
+X Vout 3 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-89 78L12G-AB3-R
+#
+DEF SOT-89_78L12G-AB3-R VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-89 78L12G-AB3-R" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_76626.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-89" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C75501" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "78L12G-AB3-R" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 2 200 0 200 U 50 50 1 1 P
+X Vout 1 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-89 78L05G-AB3-R
+#
+DEF SOT-89_78L05G-AB3-R VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-89 78L05G-AB3-R" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_72235.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-89" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C71136" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "78L05G-AB3-R" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 2 200 0 200 U 50 50 1 1 P
+X Vout 1 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-23 XC6206P332MR
+#
+DEF SOT-23_XC6206P332MR VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-23 XC6206P332MR" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-23-3L" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_5896.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C5446" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "" -300 -701 50 H I L BNN "Notepad"
+F10 "GND" 100 220 50 H V L BNN "user"
+F11 "XC6206P332MR" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 2 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-223 AMS1117-5.0
+#
+DEF SOT-223_AMS1117-5.0 VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-223 AMS1117-5.0" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-223" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_6653.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-223" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C6187" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "AMS1117-5.0" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 2 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-223 AMS1117-3.3
+#
+DEF SOT-223_AMS1117-3.3 VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-223 AMS1117-3.3" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-223" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_6652.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-223" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C6186" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "AMS1117-3.3" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 3 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 2 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-89 HT7550-1
+#
+DEF SOT-89_HT7550-1 VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-89 HT7550-1" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16788.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-89" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C16106" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "HT7550-1" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 2 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 3 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-89 HT7533-1
+#
+DEF SOT-89_HT7533-1 VR 0 40 N Y 1 F N
+F0 "VR" -300 550 50 H V L BNN
+F1 "SOT-89 HT7533-1" -250 650 50 H I L BNN
+F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_14949.html" -300 -101 50 H I L BNN
+F4 "低压差线性稳压(LDO)" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -301 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-89" -300 -401 50 H I L BNN "Package"
+F7 "LC" -300 -501 50 H I L BNN "Supplier"
+F8 "C14289" -300 -601 50 H I L BNN "SuppliersPartNumber"
+F9 "GND" 100 220 50 H V L BNN "user"
+F10 "" -300 -801 50 H I L BNN "Notepad"
+F11 "HT7533-1" -150 550 50 H V L BNN "Comment"
+DRAW
+S -100 200 500 500 1 1 0 f
+X Vin 2 -300 400 200 R 50 50 1 1 P
+X GND 1 200 0 200 U 50 50 1 1 P
+X Vout 3 700 400 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library

@@ -1,0 +1,318 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SMC(DO-214AB) SS36-E3/57T
+#
+DEF SMC_DO-214AB_SS36-E3/57T D 0 40 N N 1 F N
+F0 "D" -1 150 50 H V L BNN
+F1 "SMC(DO-214AB) SS36-E3/57T" 49 250 50 H I L BNN
+F2 "lc_lib:SMC(DO-214AB)_S1" -1 -300 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_36698.html" -1 -200 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -400 50 H I L BNN "ComponentLink1Description"
+F6 "SMC(DO-214AB)" -1 -500 50 H I L BNN "Package"
+F7 "LC" -1 -600 50 H I L BNN "Supplier"
+F8 "C35722" -1 -700 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -800 50 H I L BNN "Notepad"
+F10 "SS36-E3/57T" 149 150 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -100 500 0 400 100 400 -100 f
+P 2 1 1 10 500 100 500 -100 N
+X A 1 200 0 200 R 50 50 1 1 P
+X K 2 700 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMB/DO-214AA P6SMB6.8CA
+#
+DEF SMB/DO-214AA_P6SMB6.8CA D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SMB/DO-214AA P6SMB6.8CA" 49 150 50 H I L BNN
+F2 "lc_lib:SMB(DO-214AA)_S1" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_79530.html" -1 -300 50 H I L BNN
+F4 "TVS" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SMB/DO-214AA" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C78395" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "P6SMB6.8CA" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 200 -200 300 -100 200 0 200 -200 f
+P 4 1 1 10 340 -200 300 -160 300 -40 260 0 N
+P 4 1 1 10 400 -200 300 -100 400 0 400 -200 f
+X A 1 0 -100 200 R 50 50 1 1 P
+X K 2 600 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LL-34 LL4148 LL-34 1206
+#
+DEF LL-34_LL4148_LL-34_1206 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "LL-34 LL4148 LL-34 1206" 49 150 50 H I L BNN
+F2 "lc_lib:LL-34" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_10338.html" -1 -300 50 H I L BNN
+F4 "开关二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "LL-34" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C9808" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "LL4148 LL-34 1206" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
+P 2 1 1 10 600 0 600 -200 N
+X A 1 300 -100 200 R 50 50 1 1 P
+X K 2 800 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOD-323 1N4148WS T4
+#
+DEF SOD-323_1N4148WS_T4 D 0 40 N N 1 F N
+F0 "D" -1 150 50 H V L BNN
+F1 "SOD-323 1N4148WS T4" 49 250 50 H I L BNN
+F2 "lc_lib:SOD-323" -1 -300 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2485.html" -1 -200 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -400 50 H I L BNN "ComponentLink1Description"
+F6 "SOD-323" -1 -500 50 H I L BNN "Package"
+F7 "LC" -1 -600 50 H I L BNN "Supplier"
+F8 "C2128" -1 -700 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -800 50 H I L BNN "Notepad"
+F10 "1N4148WS T4" 149 150 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -100 500 0 400 100 400 -100 f
+P 2 1 1 10 500 100 500 -100 N
+X A 1 200 0 200 R 50 50 1 1 P
+X K 2 700 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMA(DO-214AC) SS210
+#
+DEF SMA_DO-214AC_SS210 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SMA(DO-214AC) SS210" 49 150 50 H I L BNN
+F2 "lc_lib:SMA(DO-214AC)_S1" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15669.html" -1 -300 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SMA(DO-214AC)" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C14996" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "SS210" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -200 500 -100 400 0 400 -200 f
+P 2 1 1 10 500 0 500 -200 N
+X A 1 200 -100 200 R 50 50 1 1 P
+X K 2 700 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOD-123 B5819W  SL
+#
+DEF SOD-123_B5819W__SL D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SOD-123 B5819W  SL" 49 150 50 H I L BNN
+F2 "lc_lib:SOD-123" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_9093.html" -1 -300 50 H I L BNN
+F4 "肖特基二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SOD-123" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C8598" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "B5819W  SL" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
+P 2 1 1 10 600 0 600 -200 N
+X A 1 300 -100 200 R 50 50 1 1 P
+X K 2 800 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMA(DO-214AC) US1M
+#
+DEF SMA_DO-214AC_US1M D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SMA(DO-214AC) US1M" 49 150 50 H I L BNN
+F2 "lc_lib:SMA(DO-214AC)_S1" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_5885.html" -1 -300 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SMA(DO-214AC)" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C5441" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "US1M" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -200 500 -100 400 0 400 -200 f
+P 2 1 1 10 500 0 500 -200 N
+X A 1 200 -100 200 R 50 50 1 1 P
+X K 2 700 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMA(DO-214AC) SS54
+#
+DEF SMA_DO-214AC_SS54 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SMA(DO-214AC) SS54" 49 150 50 H I L BNN
+F2 "lc_lib:SMA(DO-214AC)_S1" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_23178.html" -1 -300 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SMA(DO-214AC)" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C22452" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "SS54" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -200 500 -100 400 0 400 -200 f
+P 2 1 1 10 500 0 500 -200 N
+X A 1 200 -100 200 R 50 50 1 1 P
+X K 2 700 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-23 BAV99 A7W
+#
+DEF SOT-23_BAV99_A7W D 0 40 Y N 1 F N
+F0 "D" -1 150 50 H V L BNN
+F1 "SOT-23 BAV99 A7W" 49 250 50 H I L BNN
+F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2877.html" -1 -500 50 H I L BNN
+F4 "开关二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C2500" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "BAV99 A7W" 149 150 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -100 500 0 400 100 400 -100 f
+P 2 1 1 10 500 100 500 -100 N
+P 4 1 1 10 500 -200 400 -300 500 -400 500 -200 f
+P 2 1 1 10 400 -400 400 -200 N
+P 4 1 1 10 500 0 700 0 700 -300 500 -300 N
+X A 1 200 0 200 R 50 50 1 1 P
+X K 3 900 0 200 L 50 50 1 1 P
+X A 2 200 -300 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMA(DO-214AC) M7
+#
+DEF SMA_DO-214AC_M7 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "SMA(DO-214AC) M7" 49 150 50 H I L BNN
+F2 "lc_lib:SMA(DO-214AC)_S1" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2841.html" -1 -300 50 H I L BNN
+F4 "二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "SMA(DO-214AC)" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C95872" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "1N4007 4007 编号C2464 已经停售, 使用新物料编号C95872" -1 -900 50 H I L BNN "Notepad"
+F10 "M7" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -200 500 -100 400 0 400 -200 f
+P 2 1 1 10 500 0 500 -200 N
+X A 1 200 -100 200 R 50 50 1 1 P
+X K 2 700 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-23 BAV70 A4
+#
+DEF SOT-23_BAV70_A4 D 0 40 Y N 1 F N
+F0 "D" -1 150 50 H V L BNN
+F1 "SOT-23 BAV70 A4" 49 250 50 H I L BNN
+F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_70091.html" -1 -500 50 H I L BNN
+F4 "开关二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C68978" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "BAV70 A4" 149 150 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 400 -100 500 0 400 100 400 -100 f
+P 2 1 1 10 500 100 500 -100 N
+P 4 1 1 10 400 -400 500 -300 400 -200 400 -400 f
+P 2 1 1 10 500 -200 500 -400 N
+P 4 1 1 10 500 0 700 0 700 -300 500 -300 N
+X A 1 200 0 200 R 50 50 1 1 P
+X K 3 900 0 200 L 50 50 1 1 P
+X A 2 200 -300 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# DBS DB107S
+#
+DEF DBS_DB107S D 0 40 N N 1 F N
+F0 "D" -200 50 50 H V L BNN
+F1 "DBS DB107S" -150 150 50 H I L BNN
+F2 "lc_lib:DBS" -200 -1000 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_5809.html" -200 -900 50 H I L BNN
+F4 "整流桥" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -200 -1100 50 H I L BNN "ComponentLink1Description"
+F6 "DBS" -200 -1200 50 H I L BNN "Package"
+F7 "LC" -200 -1300 50 H I L BNN "Supplier"
+F8 "C5377" -200 -1400 50 H I L BNN "SuppliersPartNumber"
+F9 "" -200 -1500 50 H I L BNN "Notepad"
+F10 "DB107S" -50 50 50 H V L BNN "Comment"
+DRAW
+P 5 1 1 10 200 -200 0 -400 200 -600 400 -400 200 -200 N
+P 2 1 1 10 90 -230 170 -310 N
+P 4 1 1 10 30 -290 130 -270 110 -370 30 -290 f
+P 2 1 1 10 370 -290 290 -370 N
+P 4 1 1 10 310 -230 330 -330 230 -310 310 -230 f
+P 2 1 1 10 170 -490 90 -570 N
+P 4 1 1 10 110 -430 130 -530 30 -510 110 -430 f
+P 2 1 1 10 290 -430 370 -510 N
+P 4 1 1 10 230 -490 330 -470 310 -570 230 -490 f
+X C 1 200 0 200 D 50 50 1 1 P
+X K 2 600 -400 200 L 50 50 1 1 P
+X C 3 200 -800 200 U 50 50 1 1 P
+X A 4 -200 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MBS MB10S
+#
+DEF MBS_MB10S D 0 40 N N 1 F N
+F0 "D" -200 50 50 H V L BNN
+F1 "MBS MB10S" -150 150 50 H I L BNN
+F2 "lc_lib:MBS" -200 -1000 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2865.html" -200 -900 50 H I L BNN
+F4 "整流桥" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -200 -1100 50 H I L BNN "ComponentLink1Description"
+F6 "MBS" -200 -1200 50 H I L BNN "Package"
+F7 "LC" -200 -1300 50 H I L BNN "Supplier"
+F8 "C2488" -200 -1400 50 H I L BNN "SuppliersPartNumber"
+F9 "" -200 -1500 50 H I L BNN "Notepad"
+F10 "MB10S" -50 50 50 H V L BNN "Comment"
+DRAW
+P 5 1 1 10 200 -200 0 -400 200 -600 400 -400 200 -200 N
+P 2 1 1 10 90 -230 170 -310 N
+P 4 1 1 10 30 -290 130 -270 110 -370 30 -290 f
+P 2 1 1 10 370 -290 290 -370 N
+P 4 1 1 10 310 -230 330 -330 230 -310 310 -230 f
+P 2 1 1 10 170 -490 90 -570 N
+P 4 1 1 10 110 -430 130 -530 30 -510 110 -430 f
+P 2 1 1 10 290 -430 370 -510 N
+P 4 1 1 10 230 -490 330 -470 310 -570 230 -490 f
+X C 1 200 0 200 D 50 50 1 1 P
+X K 2 600 -400 200 L 50 50 1 1 P
+X C 3 200 -800 200 U 50 50 1 1 P
+X A 4 -200 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library

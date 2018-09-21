@@ -1,0 +1,16 @@
+[09/21/18 22:38:13]Start convert AD schlibs to kicad lib
+[09/21/18 22:38:13]Command line: lua ad2kicad.lua --batch x:\lc_ad_lib x:\lc_kicad_lib lc_lib lc 
+[09/21/18 22:38:14]Convert x:\lc_ad_lib/Cap.SchLib to x:\lc_kicad_lib/lc_Cap.lib   done  
+[09/21/18 22:38:14]Convert x:\lc_ad_lib/CrystalOscillator.SchLib to x:\lc_kicad_lib/lc_CrystalOscillator.lib   done  
+[09/21/18 22:38:15]Convert x:\lc_ad_lib/Diode.SchLib to x:\lc_kicad_lib/lc_Diode.lib   done  
+[09/21/18 22:38:16]Convert x:\lc_ad_lib/IC.SchLib to x:\lc_kicad_lib/lc_IC.lib   done  
+[09/21/18 22:38:16]Convert x:\lc_ad_lib/IUD.SchLib to x:\lc_kicad_lib/lc_IUD.lib   done  
+[09/21/18 22:38:17]Convert x:\lc_ad_lib/LDO.SchLib to x:\lc_kicad_lib/lc_LDO.lib   done  
+[09/21/18 22:38:17]Convert x:\lc_ad_lib/LED.SchLib to x:\lc_kicad_lib/lc_LED.lib   done  
+[09/21/18 22:38:17]Convert x:\lc_ad_lib/MCU.SchLib to x:\lc_kicad_lib/lc_MCU.lib   done  
+[09/21/18 22:38:17]Convert x:\lc_ad_lib/MOS.SchLib to x:\lc_kicad_lib/lc_MOS.lib   done  
+[09/21/18 22:38:20]Convert x:\lc_ad_lib/RES.SchLib to x:\lc_kicad_lib/lc_RES.lib   done  
+[09/21/18 22:38:20]Convert x:\lc_ad_lib/Transistor_NPN.SchLib to x:\lc_kicad_lib/lc_Transistor_NPN.lib   done  
+[09/21/18 22:38:21]Convert x:\lc_ad_lib/Transistor_PNP.SchLib to x:\lc_kicad_lib/lc_Transistor_PNP.lib   done  
+[09/21/18 22:38:21]Convert x:\lc_ad_lib/Zener.SchLib to x:\lc_kicad_lib/lc_Zener.lib   done  
+[09/21/18 22:38:21]Convert done

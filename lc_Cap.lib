@@ -1,0 +1,3729 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0402 6.0pF (6R0) 0.25pF 50V NPO
+#
+DEF 0402_6.0pF__6R0_0.25pF_50V_NPO C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 6.0pF (6R0) 0.25pF 50V NPO" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_31031.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C30274" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.0pF (6R0) 0.25pF 50V NPO" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 6.8pF (6R8) 0.25pF 50V
+#
+DEF 0805_6.8pF__6R8_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2184.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1832" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8pF (6R8) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 4.7pF (4R7) 0.25pF 50V
+#
+DEF 0805_4.7pF__4R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2172.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1820" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7pF (4R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 2.7pF (2R7) 0.25pF 50V
+#
+DEF 0805_2.7pF__2R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2155.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1803" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.7pF (2R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 2.0pF (2R0) 0.25pF 50V
+#
+DEF 0805_2.0pF__2R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 2.0pF (2R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2152.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1800" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.0pF (2R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 1.5pF (1R5) 0.25pF 50V
+#
+DEF 0805_1.5pF__1R5_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2140.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1788" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5pF (1R5) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 1.0pF (010) 0.25pF 50V
+#
+DEF 0805_1.0pF__010_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 1.0pF (010) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15644.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14971" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.0pF (010) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 8.2pF (8R2) 0.25pF 50V
+#
+DEF 0603_8.2pF__8R2_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 8.2pF (8R2) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2037.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1685" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "8.2pF (8R2) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 6.8pF (6R8) 0.25pF 50V
+#
+DEF 0603_6.8pF__6R8_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2031.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1679" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8pF (6R8) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 4.7pF (4R7) 0.25pF 50V
+#
+DEF 0603_4.7pF__4R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2021.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1669" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7pF (4R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 2.7pF (2R7) 0.25pF 50V
+#
+DEF 0603_2.7pF__2R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16831.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C16149" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.7pF (2R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 2.0pF (020) 0.25pF 50V
+#
+DEF 0603_2.0pF__020_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 2.0pF (020) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_22617.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C21895" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.0pF (020) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1.5pF (1R5) 0.25pF 50V
+#
+DEF 0603_1.5pF__1R5_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1991.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1639" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5pF (1R5) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1.0pF (010) 0.25pF 50V
+#
+DEF 0603_1.0pF__010_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1.0pF (010) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_24709.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C23969" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.0pF (010) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 6.8pF (6R8) 0.25pF 50V
+#
+DEF 0402_6.8pF__6R8_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1928.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1576" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8pF (6R8) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 4.7pF (4R7) 0.25pF 50V
+#
+DEF 0402_4.7pF__4R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1921.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1569" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7pF (4R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 3.3pF (3R3) 0.25pF 50V
+#
+DEF 0402_3.3pF__3R3_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 3.3pF (3R3) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1917.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1565" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "3.3pF (3R3) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 2.7pF (2R7) 0.25pF 50V
+#
+DEF 0402_2.7pF__2R7_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1913.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1561" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.7pF (2R7) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 2.2pF (2R2) 0.25pF 50V
+#
+DEF 0402_2.2pF__2R2_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 2.2pF (2R2) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1911.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1559" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2pF (2R2) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 2.0pF (2R0) 0.25pF 50V
+#
+DEF 0402_2.0pF__2R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 2.0pF (2R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1910.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1558" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.0pF (2R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 1.5pF (1R5) 0.25pF 50V
+#
+DEF 0402_1.5pF__1R5_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1904.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1552" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5pF (1R5) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3528 100uF (107) 10% 6.3V
+#
+DEF 3528_100uF__107_10%_6.3V C 0 40 N N 1 F N
+F0 "C" -1 50 50 H V L BNN
+F1 "3528 100uF (107) 10% 6.3V" 49 150 50 H I L BNN
+F2 "lc_lib:CASE-B_3528" -1 -380 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16815.html" -1 -280 50 H I L BNN
+F4 "钽电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -480 50 H I L BNN "ComponentLink1Description"
+F6 "3528" -1 -580 50 H I L BNN "Package"
+F7 "LC" -1 -680 50 H I L BNN "Supplier"
+F8 "C16133" -1 -780 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -880 50 H I L BNN "Notepad"
+F10 "100uF (107) ±10% 6.3V" 149 50 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 430 -180 430 -20 N
+P 2 1 1 10 400 -100 430 -100 N
+P 2 1 1 10 500 -100 470 -100 N
+P 2 1 1 10 400 -50 360 -50 N
+P 2 1 1 10 380 -70 380 -30 N
+P 2 1 1 10 470 -180 470 -20 N
+X 1 1 300 -100 100 R 50 50 1 1 P
+X 2 2 600 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 6pF (6R0) 0.25pF 50V
+#
+DEF 0805_6pF__6R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 6pF (6R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_68656.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C67560" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6pF (6R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 6pF (6R0) 0.25pF 50V
+#
+DEF 0603_6pF__6R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 6pF (6R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_38453.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C37474" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6pF (6R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 3pF (3R0) 0.25pF 50V
+#
+DEF 0603_3pF__3R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 3pF (3R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_47222.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C46219" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "3pF (3R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 1pF (1R0) 0.25pF 50V
+#
+DEF 0402_1pF__1R0_0.25pF_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 1pF (1R0) 0.25pF 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1902.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1550" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1pF (1R0) 0.25pF 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 470pF (471) 10% 50V
+#
+DEF 1206_470pF__471_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 470pF (471) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2220.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1868" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470pF (471) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 470nF (474) 10% 50V
+#
+DEF 1206_470nF__474_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 470nF (474) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2223.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1871" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470nF (474) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 4.7uF (475) 10% 50V
+#
+DEF 1206_4.7uF__475_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 4.7uF (475) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_30577.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C29823" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7uF (475) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 220pF (221) 10% 50V
+#
+DEF 1206_220pF__221_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 220pF (221) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2206.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1854" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220pF (221) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 220nF (224) 10% 50V
+#
+DEF 1206_220nF__224_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 220nF (224) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2209.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1857" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220nF (224) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 2.2uF (225) 10% 50V
+#
+DEF 1206_2.2uF__225_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 2.2uF (225) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_13292.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C12656" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2uF (225) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 100nF (104) 10% 50V
+#
+DEF 1206_100nF__104_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 100nF (104) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_25237.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C24497" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100nF (104) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 680pF (681) 10% 50V
+#
+DEF 0805_680pF__681_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 680pF (681) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_54166.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C53150" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "680pF (681) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 6.8nF (682) 10% 50V
+#
+DEF 0805_6.8nF__682_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2107.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1755" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8nF (682) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 470pF (471) 10% 50V
+#
+DEF 0805_470pF__471_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 470pF (471) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2095.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1743" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470pF (471) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 470nF (474) 10% 50V
+#
+DEF 0805_470nF__474_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 470nF (474) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_14623.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C13967" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470nF (474) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 4.7uF (475) 10% 25V
+#
+DEF 0805_4.7uF__475_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 4.7uF (475) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2131.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1779" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7uF (475) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 4.7nF (472) 10% 50V
+#
+DEF 0805_4.7nF__472_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2096.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1744" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7nF (472) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 330pF (331) 10% 50V
+#
+DEF 0805_330pF__331_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 330pF (331) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_52220.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C51207" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "330pF (331) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 330nF (334) 10% 50V
+#
+DEF 0805_330nF__334_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 330nF (334) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2092.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1740" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "330nF (334) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 3.3nF (332) 10% 50V
+#
+DEF 0805_3.3nF__332_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_54191.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C53175" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "3.3nF (332) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 220pF (221) 10% 50V
+#
+DEF 0805_220pF__221_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 220pF (221) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_54188.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C53172" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220pF (221) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 220nF (224) 10% 50V
+#
+DEF 0805_220nF__224_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 220nF (224) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_5810.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C5378" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220nF (224) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 200pF (201) 10% 50V
+#
+DEF 0805_200pF__201_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 200pF (201) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2076.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1724" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "200pF (201) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 2.2uF (225) 20% 50V
+#
+DEF 0805_2.2uF__225_20%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 2.2uF (225) 20% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_50225.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C49217" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2uF (225) 20% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 150pF (151) 10% 50V
+#
+DEF 0805_150pF__151_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 150pF (151) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2068.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1716" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "150pF (151) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 1.5nF (152) 10% 50V
+#
+DEF 0805_1.5nF__152_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2069.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1717" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5nF (152) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 8.2nF (822) 10% 50V
+#
+DEF 0603_8.2nF__822_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 8.2nF (822) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_28670.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C27920" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "8.2nF (822) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 680pF (681) 10% 50V
+#
+DEF 0603_680pF__681_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 680pF (681) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1982.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1630" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "680pF (681) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 6.8nF (682) 10% 50V
+#
+DEF 0603_6.8nF__682_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1983.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1631" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8nF (682) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 470pF (471) 10% 50V
+#
+DEF 0603_470pF__471_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 470pF (471) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1972.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1620" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470pF (471) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 470nF (474) 10% 25V
+#
+DEF 0603_470nF__474_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 470nF (474) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1975.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1623" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470nF (474) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 4.7uF (475) 10% 16V
+#
+DEF 0603_4.7uF__475_10%_16V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 4.7uF (475) 10% 16V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_20375.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C19666" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7uF (475) 10% 16V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 4.7nF (472) 10% 50V
+#
+DEF 0603_4.7nF__472_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_55004.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C53987" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7nF (472) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 330nF (334) 10% 25V
+#
+DEF 0603_330nF__334_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 330nF (334) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1967.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1615" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "330nF (334) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 3.3nF (332) 10% 50V
+#
+DEF 0603_3.3nF__332_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1965.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1613" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "3.3nF (332) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 22uF (226) 20% 6.3V
+#
+DEF 0603_22uF__226_20%_6.3V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 22uF (226) 20% 6.3V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_60514.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C59461" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22uF (226) 20% 6.3V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 220pF (221) 10% 50V
+#
+DEF 0603_220pF__221_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 220pF (221) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1955.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1603" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220pF (221) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 220nF (224) 10% 25V
+#
+DEF 0603_220nF__224_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 220nF (224) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_21832.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C21120" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220nF (224) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 200pF (201) 10% 50V
+#
+DEF 0603_200pF__201_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 200pF (201) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1952.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1600" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "200pF (201) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 2.7nF (272) 10% 50V
+#
+DEF 0603_2.7nF__272_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 2.7nF (272) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1961.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1609" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.7nF (272) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 2.2uF (225) 10% 16V
+#
+DEF 0603_2.2uF__225_10%_16V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 2.2uF (225) 10% 16V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_24366.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C23630" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2uF (225) 10% 16V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 2.2nF (222) 10% 50V
+#
+DEF 0603_2.2nF__222_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 2.2nF (222) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1956.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1604" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2nF (222) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 150pF (151) 10% 50V
+#
+DEF 0603_150pF__151_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 150pF (151) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1946.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1594" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "150pF (151) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 100nF (104) 10% 50V
+#
+DEF 0603_100nF__104_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 100nF (104) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15331.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14663" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100nF (104) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1.5nF (152) 10% 50V
+#
+DEF 0603_1.5nF__152_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1947.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1595" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5nF (152) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1.2nF (122) 10% 50V
+#
+DEF 0603_1.2nF__122_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1.2nF (122) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_31372.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C30615" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.2nF (122) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 6.8nF (682) 10% 50V
+#
+DEF 0402_6.8nF__682_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1894.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1542" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "6.8nF (682) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 470pF (471) 10% 50V
+#
+DEF 0402_470pF__471_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 470pF (471) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1889.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1537" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470pF (471) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 470nF (474) 10% 10V
+#
+DEF 0402_470nF__474_10%_10V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 470nF (474) 10% 10V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_48344.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C47339" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "470nF (474) 10% 10V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 4.7uF (475) 20% 10V
+#
+DEF 0402_4.7uF__475_20%_10V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 4.7uF (475) 20% 10V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_24469.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C23733" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7uF (475) 20% 10V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 4.7nF (472) 10% 50V
+#
+DEF 0402_4.7nF__472_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1890.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1538" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "4.7nF (472) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 3.3nF (332) 10% 50V
+#
+DEF 0402_3.3nF__332_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_27148.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C26404" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "3.3nF (332) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 220pF (221) 10% 50V
+#
+DEF 0402_220pF__221_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 220pF (221) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1882.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1530" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220pF (221) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 220nF (224) 10% 16V
+#
+DEF 0402_220nF__224_10%_16V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 220nF (224) 10% 16V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_17456.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C16772" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "220nF (224) 10% 16V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 2.2nF (222) 10% 50V
+#
+DEF 0402_2.2nF__222_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 2.2nF (222) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1883.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1531" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2nF (222) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 150pF (151) 10% 50V
+#
+DEF 0402_150pF__151_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 150pF (151) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1879.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1527" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "150pF (151) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 10uF (106) 20% 6.3V
+#
+DEF 0402_10uF__106_20%_6.3V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 10uF (106) 20% 6.3V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16204.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C15525" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10uF (106) 20% 6.3V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 100nF (104) 10% 16V
+#
+DEF 0402_100nF__104_10%_16V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 100nF (104) 10% 16V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1877.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1525" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100nF (104) 10% 16V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 1.5nF (152) 10% 50V
+#
+DEF 0402_1.5nF__152_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_24707.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C23967" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.5nF (152) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 1.0uF (105) 10% 25V
+#
+DEF 0402_1.0uF__105_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 1.0uF (105) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_53938.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C52923" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1.0uF (105) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3216 10uF (106) 10% 16V
+#
+DEF 3216_10uF__106_10%_16V C 0 40 N N 1 F N
+F0 "C" -1 50 50 H V L BNN
+F1 "3216 10uF (106) 10% 16V" 49 150 50 H I L BNN
+F2 "lc_lib:CASE-A_3216" -1 -380 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_7643.html" -1 -280 50 H I L BNN
+F4 "钽电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -480 50 H I L BNN "ComponentLink1Description"
+F6 "3216" -1 -580 50 H I L BNN "Package"
+F7 "LC" -1 -680 50 H I L BNN "Supplier"
+F8 "C7171" -1 -780 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -880 50 H I L BNN "Notepad"
+F10 "10uF (106) ±10% 16V" 149 50 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 430 -180 430 -20 N
+P 2 1 1 10 400 -100 430 -100 N
+P 2 1 1 10 500 -100 470 -100 N
+P 2 1 1 10 400 -50 360 -50 N
+P 2 1 1 10 380 -70 380 -30 N
+P 2 1 1 10 470 -180 470 -20 N
+X 1 1 300 -100 100 R 50 50 1 1 P
+X 2 2 600 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 1nF (102) 10% 500V
+#
+DEF 1206_1nF__102_10%_500V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 1nF (102) 10% 500V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_36187.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C35216" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1nF (102) 10% 500V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 10uF (106) 10% 50V
+#
+DEF 1206_10uF__106_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 10uF (106) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_14236.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C13585" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10uF (106) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 10nF (103) 10% 50V
+#
+DEF 1206_10nF__103_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 10nF (103) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2198.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1846" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10nF (103) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 68nF (683) 10% 50V
+#
+DEF 0805_68nF__683_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 68nF (683) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2108.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1756" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "68nF (683) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 47nF (473) 10% 50V
+#
+DEF 0805_47nF__473_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 47nF (473) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_54150.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C53134" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "47nF (473) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 33nF (333) 10% 50V
+#
+DEF 0805_33nF__333_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 33nF (333) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2091.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1739" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33nF (333) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 22uF (226) 20% 25V
+#
+DEF 0805_22uF__226_20%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 22uF (226) 20% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_46786.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C45783" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22uF (226) 20% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 22nF (223) 10% 50V
+#
+DEF 0805_22nF__223_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 22nF (223) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2081.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1729" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22nF (223) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 2.2nF (222) 5% 50V
+#
+DEF 0805_2.2nF__222_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 2.2nF (222) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_29010.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C28260" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "2.2nF (222) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 10uF (106) 10% 25V
+#
+DEF 0805_10uF__106_10%_25V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 10uF (106) 10% 25V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16532.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C15850" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10uF (106) 10% 25V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 10nF (103) 10% 50V
+#
+DEF 0805_10nF__103_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 10nF (103) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2062.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1710" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10nF (103) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 100pF (101) 5% 50V
+#
+DEF 0805_100pF__101_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 100pF (101) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2142.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1790" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100pF (101) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 100nF(104) 10% 50V
+#
+DEF 0805_100nF_104_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 100nF(104) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_50686.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C49678" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100nF(104) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 68nF (683) 10% 50V
+#
+DEF 0603_68nF__683_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 68nF (683) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_32617.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C31658" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "68nF (683) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 47nF (473) 10% 50V
+#
+DEF 0603_47nF__473_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 47nF (473) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1974.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1622" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "47nF (473) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 33nF (333) 10% 50V
+#
+DEF 0603_33nF__333_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 33nF (333) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_21829.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C21117" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33nF (333) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 330pF (331) 5% 50V
+#
+DEF 0603_330pF__331_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 330pF (331) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2016.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1664" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "330pF (331) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 27nF (273) 20% 50V
+#
+DEF 0603_27nF__273_20%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 27nF (273) 20% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2052.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1700" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "27nF (273) 20% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 22nF (223) 10% 50V
+#
+DEF 0603_22nF__223_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 22nF (223) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_21834.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C21122" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22nF (223) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 15nF (153) 10% 50V
+#
+DEF 0603_15nF__153_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 15nF (153) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1948.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1596" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "15nF (153) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 12nF (123) 10% 50V
+#
+DEF 0603_12nF__123_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 12nF (123) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1945.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1593" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "12nF (123) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 10uF (106) 10% 10V
+#
+DEF 0603_10uF__106_10%_10V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 10uF (106) 10% 10V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_20411.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C19702" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10uF (106) 10% 10V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 10nF (103) 10% 50V
+#
+DEF 0603_10nF__103_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 10nF (103) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_58143.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C57112" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10nF (103) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 100pF (101) 5% 50V
+#
+DEF 0603_100pF__101_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 100pF (101) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15530.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14858" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100pF (101) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 33nF (333) 20% 50V
+#
+DEF 0402_33nF__333_20%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 33nF (333) 20% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1937.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1585" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33nF (333) 20% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 330pF (331) 5% 50V
+#
+DEF 0402_330pF__331_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 330pF (331) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_14182.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C13533" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "330pF (331) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 22nF (223) 10% 50V
+#
+DEF 0402_22nF__223_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 22nF (223) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1884.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1532" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22nF (223) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 10nF (103) 10% 50V
+#
+DEF 0402_10nF__103_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 10nF (103) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15869.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C15195" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10nF (103) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 100pF (101) 5% 50V
+#
+DEF 0402_100pF__101_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 100pF (101) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1898.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1546" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "100pF (101) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1206 1uF (105) 10% 50V
+#
+DEF 1206_1uF__105_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "1206 1uF (105) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2200.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "1206" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1848" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1uF (105) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 68pF (680) 5% 50V
+#
+DEF 0805_68pF__680_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 68pF (680) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2186.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1834" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "68pF (680) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 56pF (560) 5% 50V
+#
+DEF 0805_56pF__560_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 56pF (560) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2180.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1828" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "56pF (560) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 47pF (470) 5% 50V
+#
+DEF 0805_47pF__470_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 47pF (470) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15529.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14857" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "47pF (470) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 33pF (330) 5% 50V
+#
+DEF 0805_33pF__330_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 33pF (330) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2166.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1814" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33pF (330) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 30pF (300) 5% 50V
+#
+DEF 0805_30pF__300_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 30pF (300) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2161.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1809" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "30pF (300) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 27pF (270) 5% 50V
+#
+DEF 0805_27pF__270_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 27pF (270) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_8509.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C8031" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "27pF (270) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 22pF (220) 5% 50V
+#
+DEF 0805_22pF__220_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 22pF (220) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2156.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1804" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22pF (220) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 20pF (200) 5% 50V
+#
+DEF 0805_20pF__200_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 20pF (200) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2150.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1798" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "20pF (200) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 1uF (105) 10% 50V
+#
+DEF 0805_1uF__105_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 1uF (105) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_29074.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C28323" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1uF (105) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 1nF (102) 10% 50V
+#
+DEF 0805_1nF__102_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 1nF (102) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_52223.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C51210" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1nF (102) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 18pF (180) 5% 50V
+#
+DEF 0805_18pF__180_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 18pF (180) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2149.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1797" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "18pF (180) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 15pF (150) 5% 50V
+#
+DEF 0805_15pF__150_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 15pF (150) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2146.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1794" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "15pF (150) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 12pF (120) 5% 50V
+#
+DEF 0805_12pF__120_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 12pF (120) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2144.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1792" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "12pF (120) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0805 10pF (100) 5% 50V
+#
+DEF 0805_10pF__100_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0805 10pF (100) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2137.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0805" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1785" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10pF (100) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 82pF (820) 5% 50V
+#
+DEF 0603_82pF__820_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 82pF (820) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2035.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1683" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "82pF (820) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 68pF (680) 5% 50V
+#
+DEF 0603_68pF__680_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 68pF (680) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_29012.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C28262" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "68pF (680) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 56pF (560) 5% 50V
+#
+DEF 0603_56pF__560_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 56pF (560) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_40131.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C39148" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "56pF (560) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 47pF (470) 5% 50V
+#
+DEF 0603_47pF__470_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 47pF (470) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2023.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1671" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "47pF (470) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 33pF (330) 5% 50V
+#
+DEF 0603_33pF__330_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 33pF (330) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2015.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1663" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33pF (330) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 30pF (300) 5% 50V
+#
+DEF 0603_30pF__300_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 30pF (300) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_23122.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C22397" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "30pF (300) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 27pF (270) 5% 50V
+#
+DEF 0603_27pF__270_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 27pF (270) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2008.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1656" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "27pF (270) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 22pF (220) 5% 50V
+#
+DEF 0603_22pF__220_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 22pF (220) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2005.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1653" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22pF (220) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 20pF (200) 5% 50V
+#
+DEF 0603_20pF__200_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 20pF (200) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2000.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1648" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "20pF (200) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1uF (105) 10% 50V
+#
+DEF 0603_1uF__105_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1uF (105) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_16531.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C15849" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1uF (105) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 1nF (102) 10% 50V
+#
+DEF 0603_1nF__102_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 1nF (102) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1940.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1588" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1nF (102) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 18pF (180) 5% 50V
+#
+DEF 0603_18pF__180_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 18pF (180) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1999.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1647" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "18pF (180) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 15pF (150) 5% 50V
+#
+DEF 0603_15pF__150_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 15pF (150) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1996.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1644" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "15pF (150) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 12pF (120) 5% 50V
+#
+DEF 0603_12pF__120_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 12pF (120) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_39506.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C38523" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "12pF (120) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0603 10pF (100) 5% 50V
+#
+DEF 0603_10pF__100_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0603 10pF (100) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1986.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0603" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1634" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10pF (100) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 68pF (680) 5% 50V
+#
+DEF 0402_68pF__680_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 68pF (680) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_15103.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C14441" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "68pF (680) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 56pF (560) 5% 50V
+#
+DEF 0402_56pF__560_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 56pF (560) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1924.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1572" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "56pF (560) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 47pF (470) 5% 50V
+#
+DEF 0402_47pF__470_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 47pF (470) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1919.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1567" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "47pF (470) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 33pF (330) 5% 50V
+#
+DEF 0402_33pF__330_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 33pF (330) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1914.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1562" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "33pF (330) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 30pF (300) 5% 50V
+#
+DEF 0402_30pF__300_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 30pF (300) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1922.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1570" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "30pF (300) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 27pF (270) 5% 50V
+#
+DEF 0402_27pF__270_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 27pF (270) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1909.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1557" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "27pF (270) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 22pF (220) 5% 50V
+#
+DEF 0402_22pF__220_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 22pF (220) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1907.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1555" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "22pF (220) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 20pF (200) 5% 50V
+#
+DEF 0402_20pF__200_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 20pF (200) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1906.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1554" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "20pF (200) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 1nF (102) 10% 50V
+#
+DEF 0402_1nF__102_10%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 1nF (102) 10% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1875.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1523" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "1nF (102) 10% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 18pF (180) 5% 50V
+#
+DEF 0402_18pF__180_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 18pF (180) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1901.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1549" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "18pF (180) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 15pF (150) 5% 50V
+#
+DEF 0402_15pF__150_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 15pF (150) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1900.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1548" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "15pF (150) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 12pF (120) 5% 50V
+#
+DEF 0402_12pF__120_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 12pF (120) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_1899.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C1547" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "12pF (120) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0402 10pF (100) 5% 50V
+#
+DEF 0402_10pF__100_5%_50V C 0 40 N N 1 F N
+F0 "C" -1 130 50 H V L BNN
+F1 "0402 10pF (100) 5% 50V" 49 230 50 H I L BNN
+F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_33914.html" -1 -180 50 H I L BNN
+F4 "贴片电容" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -380 50 H I L BNN "ComponentLink1Description"
+F6 "0402" -1 -480 50 H I L BNN "Package"
+F7 "LC" -1 -580 50 H I L BNN "Supplier"
+F8 "C32949" -1 -680 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -780 50 H I L BNN "Notepad"
+F10 "10pF (100) 5% 50V" 149 130 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 370 80 370 -80 N
+P 2 1 1 10 330 -80 330 80 N
+P 2 1 1 10 300 0 330 0 N
+P 2 1 1 10 400 0 370 0 N
+X 1 1 200 0 100 R 50 50 1 1 P
+X 2 2 500 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library

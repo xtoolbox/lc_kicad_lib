@@ -1,0 +1,49 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LL-34 ZMM5V6
+#
+DEF LL-34_ZMM5V6 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "LL-34 ZMM5V6" 49 150 50 H I L BNN
+F2 "lc_lib:LL-34" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_8541.html" -1 -300 50 H I L BNN
+F4 "稳压二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "LL-34" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C8062" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "ZMM5V6" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
+P 4 1 1 10 640 -200 600 -160 600 -40 560 0 N
+X A 1 300 -100 200 R 50 50 1 1 P
+X K 2 800 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LL-34 ZMM3V3
+#
+DEF LL-34_ZMM3V3 D 0 40 N N 1 F N
+F0 "D" -1 50 50 H V L BNN
+F1 "LL-34 ZMM3V3" 49 150 50 H I L BNN
+F2 "lc_lib:LL-34" -1 -400 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_8535.html" -1 -300 50 H I L BNN
+F4 "稳压二极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -500 50 H I L BNN "ComponentLink1Description"
+F6 "LL-34" -1 -600 50 H I L BNN "Package"
+F7 "LC" -1 -700 50 H I L BNN "Supplier"
+F8 "C8056" -1 -800 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -900 50 H I L BNN "Notepad"
+F10 "ZMM3V3" 149 50 50 H V L BNN "Comment"
+DRAW
+P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
+P 4 1 1 10 640 -200 600 -160 600 -40 560 0 N
+X A 1 300 -100 200 R 50 50 1 1 P
+X K 2 800 -100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library

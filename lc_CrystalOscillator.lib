@@ -1,0 +1,149 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SMD-5032_2P 11.0592MHZ 20PF 20PPM
+#
+DEF SMD-5032_2P_11.0592MHZ_20PF_20PPM Y 0 40 Y N 1 F N
+F0 "Y" -1 120 50 H V L BNN
+F1 "SMD-5032_2P 11.0592MHZ 20PF 20PPM" 49 220 50 H I L BNN
+F2 "lc_lib:SMD-5032_2P" -1 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_53039.html" -1 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-5032_2P" -1 -470 50 H I L BNN "Package"
+F7 "LC" -1 -570 50 H I L BNN "Supplier"
+F8 "C52026" -1 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -770 50 H I L BNN "Notepad"
+F10 "11.0592MHZ 20PF 20PPM" 149 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 500 40 500 -40 N
+P 2 1 1 10 420 70 480 70 N
+P 2 1 1 10 400 40 400 -40 N
+P 4 1 1 10 480 70 480 -70 420 -70 420 70 N
+X OSC1 1 200 0 200 R 50 50 1 1 P
+X OSC2 2 700 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD-3215_2P 32.768KHz 20ppm 12.5pF
+#
+DEF SMD-3215_2P_32.768KHz_20ppm_12.5pF Y 0 40 Y N 1 F N
+F0 "Y" -1 120 50 H V L BNN
+F1 "SMD-3215_2P 32.768KHz 20ppm 12.5pF" 49 220 50 H I L BNN
+F2 "lc_lib:SMD-3215_2P FC - 135" -1 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_33310.html" -1 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-3215_2P" -1 -470 50 H I L BNN "Package"
+F7 "LC" -1 -570 50 H I L BNN "Supplier"
+F8 "C32346" -1 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -770 50 H I L BNN "Notepad"
+F10 "32.768KHz ±20ppm 12.5pF" 149 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 500 40 500 -40 N
+P 2 1 1 10 420 70 480 70 N
+P 2 1 1 10 400 40 400 -40 N
+P 4 1 1 10 480 70 480 -70 420 -70 420 70 N
+X OSC1 1 200 0 200 R 50 50 1 1 P
+X OSC2 2 700 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD-3225_4P  25MHZ 12PF 10PPM
+#
+DEF SMD-3225_4P__25MHZ_12PF_10PPM Y 0 40 Y N 1 F N
+F0 "Y" -300 120 50 H V L BNN
+F1 "SMD-3225_4P  25MHZ 12PF 10PPM" -250 220 50 H I L BNN
+F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_9526.html" -300 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
+F7 "LC" -300 -570 50 H I L BNN "Supplier"
+F8 "C9006" -300 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -300 -770 50 H I L BNN "Notepad"
+F10 "25MHZ 12PF 10PPM" -150 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 0 40 0 -40 N
+P 2 1 1 10 -80 70 -20 70 N
+P 2 1 1 10 -100 40 -100 -40 N
+P 4 1 1 10 -20 70 -20 -70 -80 -70 -80 70 N
+X OSC1 1 -300 0 200 R 50 50 1 1 P
+X OSC2 3 200 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD-3225_4P  12MHZ 20PF 10PPM
+#
+DEF SMD-3225_4P__12MHZ_20PF_10PPM Y 0 40 Y N 1 F N
+F0 "Y" -300 120 50 H V L BNN
+F1 "SMD-3225_4P  12MHZ 20PF 10PPM" -250 220 50 H I L BNN
+F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_9522.html" -300 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
+F7 "LC" -300 -570 50 H I L BNN "Supplier"
+F8 "C9002" -300 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -300 -770 50 H I L BNN "Notepad"
+F10 "12MHZ 20PF 10PPM" -150 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 0 40 0 -40 N
+P 2 1 1 10 -80 70 -20 70 N
+P 2 1 1 10 -100 40 -100 -40 N
+P 4 1 1 10 -20 70 -20 -70 -80 -70 -80 70 N
+X OSC1 1 -300 0 200 R 50 50 1 1 P
+X OSC2 3 200 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD-3225_4P  16MHZ 9PF 10PPM
+#
+DEF SMD-3225_4P__16MHZ_9PF_10PPM Y 0 40 Y N 1 F N
+F0 "Y" -300 120 50 H V L BNN
+F1 "SMD-3225_4P  16MHZ 9PF 10PPM" -250 220 50 H I L BNN
+F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_14393.html" -300 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -300 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
+F7 "LC" -300 -570 50 H I L BNN "Supplier"
+F8 "C13738" -300 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -300 -770 50 H I L BNN "Notepad"
+F10 "16MHZ 9PF 10PPM" -150 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 0 40 0 -40 N
+P 2 1 1 10 -80 70 -20 70 N
+P 2 1 1 10 -100 40 -100 -40 N
+P 4 1 1 10 -20 70 -20 -70 -80 -70 -80 70 N
+X OSC1 1 -300 0 200 R 50 50 1 1 P
+X OSC2 3 200 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD-5032_2P 8MHz 20ppm 20pF
+#
+DEF SMD-5032_2P_8MHz_20ppm_20pF Y 0 40 Y N 1 F N
+F0 "Y" -1 120 50 H V L BNN
+F1 "SMD-5032_2P 8MHz 20ppm 20pF" 49 220 50 H I L BNN
+F2 "lc_lib:SMD-5032_2P" -1 -270 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_117214.html" -1 -170 50 H I L BNN
+F4 "贴片晶振" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -370 50 H I L BNN "ComponentLink1Description"
+F6 "SMD-5032_2P" -1 -470 50 H I L BNN "Package"
+F7 "LC" -1 -570 50 H I L BNN "Supplier"
+F8 "C115962" -1 -670 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -770 50 H I L BNN "Notepad"
+F10 "8MHz ±20ppm 20pF" 149 120 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 500 40 500 -40 N
+P 2 1 1 10 420 70 480 70 N
+P 2 1 1 10 400 40 400 -40 N
+P 4 1 1 10 480 70 480 -70 420 -70 420 70 N
+X OSC1 1 200 0 200 R 50 50 1 1 P
+X OSC2 2 700 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library

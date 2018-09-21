@@ -1,0 +1,105 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SOT-23 2SC3356-T1B-A    S/YS档
+#
+DEF SOT-23_2SC3356-T1B-A____S/YS档 Q 0 40 N N 1 F N
+F0 "Q" -1 250 50 H V L BNN
+F1 "SOT-23 2SC3356-T1B-A    S/YS档" 49 350 50 H I L BNN
+F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_10189.html" -1 -500 50 H I L BNN
+F4 "三极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C9659" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "2SC3356-T1B-A    S/YS档" 149 250 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 600 0 500 -70 N
+P 2 1 1 10 500 -130 600 -200 N
+P 2 1 1 10 500 -10 500 -190 N
+P 4 1 1 0 600 -200 570 -150 540 -190 600 -200 f
+X C 3 600 200 200 D 50 50 1 1 P
+X B 1 300 -100 200 R 50 50 1 1 P
+X E 2 600 -400 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-23 MMBT5551  G1
+#
+DEF SOT-23_MMBT5551__G1 Q 0 40 N N 1 F N
+F0 "Q" -1 250 50 H V L BNN
+F1 "SOT-23 MMBT5551  G1" 49 350 50 H I L BNN
+F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2502.html" -1 -500 50 H I L BNN
+F4 "三极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C2145" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "MMBT5551  G1" 149 250 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 600 0 500 -70 N
+P 2 1 1 10 500 -130 600 -200 N
+P 2 1 1 10 500 -10 500 -190 N
+P 4 1 1 0 600 -200 570 -150 540 -190 600 -200 f
+X C 3 600 200 200 D 50 50 1 1 P
+X B 1 300 -100 200 R 50 50 1 1 P
+X E 2 600 -400 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-23 SS8050 Y1
+#
+DEF SOT-23_SS8050_Y1 Q 0 40 N N 1 F N
+F0 "Q" -1 250 50 H V L BNN
+F1 "SOT-23 SS8050 Y1" 49 350 50 H I L BNN
+F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_2507.html" -1 -500 50 H I L BNN
+F4 "三极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-23" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C2150" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "SS8050 Y1" 149 250 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 600 0 500 -70 N
+P 2 1 1 10 500 -130 600 -200 N
+P 2 1 1 10 500 -10 500 -190 N
+P 4 1 1 0 600 -200 570 -150 540 -190 600 -200 f
+X C 3 600 200 200 D 50 50 1 1 P
+X B 1 300 -100 200 R 50 50 1 1 P
+X E 2 600 -400 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SOT-89 D882
+#
+DEF SOT-89_D882 Q 0 40 N N 1 F N
+F0 "Q" -1 250 50 H V L BNN
+F1 "SOT-89 D882" 49 350 50 H I L BNN
+F2 "lc_lib:SOT-89(SOT-89-3)" -1 -600 50 H I L BNN
+F3 "http://www.szlcsc.com/product/details_10164.html" -1 -500 50 H I L BNN
+F4 "三极管" 0 0 50 H I C CNN "description"
+F5 "供应商链接" -1 -700 50 H I L BNN "ComponentLink1Description"
+F6 "SOT-89" -1 -800 50 H I L BNN "Package"
+F7 "LC" -1 -900 50 H I L BNN "Supplier"
+F8 "C9634" -1 -1000 50 H I L BNN "SuppliersPartNumber"
+F9 "" -1 -1100 50 H I L BNN "Notepad"
+F10 "D882" 149 250 50 H V L BNN "Comment"
+DRAW
+P 2 1 1 10 600 0 500 -70 N
+P 2 1 1 10 500 -130 600 -200 N
+P 2 1 1 10 500 -10 500 -190 N
+P 4 1 1 0 600 -200 570 -150 540 -190 600 -200 f
+X C 2 600 200 200 D 50 50 1 1 P
+X B 1 300 -100 200 R 50 50 1 1 P
+X E 3 600 -400 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+
+#
+#End Library
