@@ -12,3 +12,16 @@ Then use follow command convert to kicad format
 ```shell
 lua pcad2kicad.lua "x:/lc_ad_lib/Miscellaneous Devices LC.lia" lc_lib x:/lc_kicad_lib
 ```
+
+# Preview
+## SchLib in KiCad
+![KiCad SchLib](/image/kicadSch.png)
+## SchLib in AD
+![AD SchLib](/image/ADSch.png)
+
+## PcbLib in KiCad vs AD
+![PCBLib1](/image/pcblib1.png)
+
+![PCBLib1](/image/pcblib2.png)
+
+
