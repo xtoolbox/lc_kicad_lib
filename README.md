@@ -15,13 +15,13 @@ lua pcad2kicad.lua "x:/lc_ad_lib/Miscellaneous Devices LC.lia" lc_lib x:/lc_kica
 
 # Preview
 ## SchLib in KiCad
-![KiCad SchLib](/image/kicadSch.png)
+![KiCad SchLib](/images/kicadSch.png)
 ## SchLib in AD
-![AD SchLib](/image/ADSch.png)
+![AD SchLib](/images/ADSch.png)
 
 ## PcbLib in KiCad vs AD
-![PCBLib1](/image/pcblib1.png)
+![PCBLib1](/images/pcblib1.png)
 
-![PCBLib1](/image/pcblib2.png)
+![PCBLib1](/images/pcblib2.png)
 
 
