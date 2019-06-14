@@ -8,8 +8,8 @@ F0 "Y" -1 120 50 H V L BNN
 F1 "SMD-5032_2P 11.0592MHZ 20PF 20PPM" 49 220 50 H I L BNN
 F2 "lc_lib:SMD-5032_2P" -1 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_53039.html" -1 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-5032_2P" -1 -470 50 H I L BNN "Package"
 F7 "LC" -1 -570 50 H I L BNN "Supplier"
 F8 "C52026" -1 -670 50 H I L BNN "SuppliersPartNumber"
@@ -32,13 +32,13 @@ F0 "Y" -1 120 50 H V L BNN
 F1 "SMD-3215_2P 32.768KHz 20ppm 12.5pF" 49 220 50 H I L BNN
 F2 "lc_lib:SMD-3215_2P FC - 135" -1 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33310.html" -1 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-3215_2P" -1 -470 50 H I L BNN "Package"
 F7 "LC" -1 -570 50 H I L BNN "Supplier"
 F8 "C32346" -1 -670 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -770 50 H I L BNN "Notepad"
-F10 "32.768KHz ¡À20ppm 12.5pF" 149 120 50 H V L BNN "Comment"
+F10 "32.768KHz Â±20ppm 12.5pF" 149 120 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 500 40 500 -40 N
 P 2 1 1 10 420 70 480 70 N
@@ -56,8 +56,8 @@ F0 "Y" -300 120 50 H V L BNN
 F1 "SMD-3225_4P  25MHZ 12PF 10PPM" -250 220 50 H I L BNN
 F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9526.html" -300 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
 F7 "LC" -300 -570 50 H I L BNN "Supplier"
 F8 "C9006" -300 -670 50 H I L BNN "SuppliersPartNumber"
@@ -80,8 +80,8 @@ F0 "Y" -300 120 50 H V L BNN
 F1 "SMD-3225_4P  12MHZ 20PF 10PPM" -250 220 50 H I L BNN
 F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9522.html" -300 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
 F7 "LC" -300 -570 50 H I L BNN "Supplier"
 F8 "C9002" -300 -670 50 H I L BNN "SuppliersPartNumber"
@@ -104,8 +104,8 @@ F0 "Y" -300 120 50 H V L BNN
 F1 "SMD-3225_4P  16MHZ 9PF 10PPM" -250 220 50 H I L BNN
 F2 "lc_lib:SMD-3225_4P" -300 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14393.html" -300 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-3225_4P" -300 -470 50 H I L BNN "Package"
 F7 "LC" -300 -570 50 H I L BNN "Supplier"
 F8 "C13738" -300 -670 50 H I L BNN "SuppliersPartNumber"
@@ -128,13 +128,13 @@ F0 "Y" -1 120 50 H V L BNN
 F1 "SMD-5032_2P 8MHz 20ppm 20pF" 49 220 50 H I L BNN
 F2 "lc_lib:SMD-5032_2P" -1 -270 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_117214.html" -1 -170 50 H I L BNN
-F4 "ÌùÆ¬¾§Õñ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -370 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡æ™¶æŒ¯" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -370 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-5032_2P" -1 -470 50 H I L BNN "Package"
 F7 "LC" -1 -570 50 H I L BNN "Supplier"
 F8 "C115962" -1 -670 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -770 50 H I L BNN "Notepad"
-F10 "8MHz ¡À20ppm 20pF" 149 120 50 H V L BNN "Comment"
+F10 "8MHz Â±20ppm 20pF" 149 120 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 500 40 500 -40 N
 P 2 1 1 10 420 70 480 70 N

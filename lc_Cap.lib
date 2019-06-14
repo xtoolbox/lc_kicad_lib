@@ -8,8 +8,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 6.0pF (6R0) 0.25pF 50V NPO" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_31031.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C30274" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -32,8 +32,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2184.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1832" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -56,8 +56,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2172.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1820" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -80,8 +80,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2155.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1803" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -104,8 +104,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 2.0pF (2R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2152.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1800" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -128,8 +128,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2140.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1788" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -152,8 +152,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 1.0pF (010) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15644.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C14971" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -176,8 +176,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 8.2pF (8R2) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2037.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1685" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -200,8 +200,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2031.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1679" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -224,8 +224,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2021.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1669" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -248,8 +248,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16831.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C16149" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -272,8 +272,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 2.0pF (020) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_22617.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C21895" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -296,8 +296,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1991.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1639" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -320,8 +320,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1.0pF (010) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24709.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C23969" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -344,8 +344,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 6.8pF (6R8) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1928.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1576" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -368,8 +368,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 4.7pF (4R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1921.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1569" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -392,8 +392,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 3.3pF (3R3) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1917.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1565" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -416,8 +416,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 2.7pF (2R7) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1913.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1561" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -440,8 +440,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 2.2pF (2R2) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1911.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1559" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -464,8 +464,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 2.0pF (2R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1910.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1558" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -488,8 +488,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 1.5pF (1R5) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1904.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1552" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -512,13 +512,13 @@ F0 "C" -1 50 50 H V L BNN
 F1 "3528 100uF (107) 10% 6.3V" 49 150 50 H I L BNN
 F2 "lc_lib:CASE-B_3528" -1 -380 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16815.html" -1 -280 50 H I L BNN
-F4 "îãµçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -480 50 H I L BNN "ComponentLink1Description"
+F4 "é’½ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -480 50 H I L BNN "ComponentLink1Description"
 F6 "3528" -1 -580 50 H I L BNN "Package"
 F7 "LC" -1 -680 50 H I L BNN "Supplier"
 F8 "C16133" -1 -780 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -880 50 H I L BNN "Notepad"
-F10 "100uF (107) ¡À10% 6.3V" 149 50 50 H V L BNN "Comment"
+F10 "100uF (107) Â±10% 6.3V" 149 50 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 430 -180 430 -20 N
 P 2 1 1 10 400 -100 430 -100 N
@@ -538,8 +538,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 6pF (6R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_68656.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C67560" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -562,8 +562,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 6pF (6R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_38453.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C37474" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -586,8 +586,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 3pF (3R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_47222.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C46219" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -610,8 +610,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 1pF (1R0) 0.25pF 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1902.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1550" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -634,8 +634,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 470pF (471) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2220.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1868" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -658,8 +658,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 470nF (474) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2223.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1871" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -682,8 +682,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 4.7uF (475) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_30577.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C29823" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -706,8 +706,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 220pF (221) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2206.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1854" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -730,8 +730,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 220nF (224) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2209.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1857" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -754,8 +754,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 2.2uF (225) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_13292.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C12656" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -778,8 +778,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 100nF (104) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_25237.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C24497" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -802,8 +802,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 680pF (681) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_54166.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C53150" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -826,8 +826,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2107.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1755" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -850,8 +850,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 470pF (471) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2095.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1743" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -874,8 +874,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 470nF (474) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14623.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C13967" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -898,8 +898,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 4.7uF (475) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2131.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1779" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -922,8 +922,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2096.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1744" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -946,8 +946,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 330pF (331) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_52220.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C51207" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -970,8 +970,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 330nF (334) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2092.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1740" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -994,8 +994,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_54191.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C53175" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1018,8 +1018,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 220pF (221) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_54188.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C53172" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1042,8 +1042,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 220nF (224) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_5810.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C5378" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1066,8 +1066,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 200pF (201) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2076.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1724" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1090,8 +1090,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 2.2uF (225) 20% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_50225.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C49217" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1114,8 +1114,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 150pF (151) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2068.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1716" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1138,8 +1138,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2069.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1717" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1162,8 +1162,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 8.2nF (822) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_28670.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C27920" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1186,8 +1186,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 680pF (681) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1982.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1630" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1210,8 +1210,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1983.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1631" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1234,8 +1234,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 470pF (471) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1972.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1620" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1258,8 +1258,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 470nF (474) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1975.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1623" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1282,8 +1282,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 4.7uF (475) 10% 16V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_20375.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C19666" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1306,8 +1306,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_55004.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C53987" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1330,8 +1330,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 330nF (334) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1967.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1615" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1354,8 +1354,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1965.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1613" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1378,8 +1378,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 22uF (226) 20% 6.3V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_60514.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C59461" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1402,8 +1402,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 220pF (221) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1955.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1603" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1426,8 +1426,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 220nF (224) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_21832.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C21120" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1450,8 +1450,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 200pF (201) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1952.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1600" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1474,8 +1474,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 2.7nF (272) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1961.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1609" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1498,8 +1498,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 2.2uF (225) 10% 16V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24366.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C23630" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1522,8 +1522,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 2.2nF (222) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1956.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1604" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1546,8 +1546,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 150pF (151) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1946.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1594" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1570,8 +1570,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 100nF (104) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15331.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C14663" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1594,8 +1594,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1947.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1595" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1618,8 +1618,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1.2nF (122) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_31372.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C30615" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1642,8 +1642,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 6.8nF (682) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1894.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1542" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1666,8 +1666,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 470pF (471) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1889.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1537" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1690,8 +1690,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 470nF (474) 10% 10V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_48344.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C47339" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1714,8 +1714,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 4.7uF (475) 20% 10V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24469.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C23733" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1738,8 +1738,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 4.7nF (472) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1890.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1538" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1762,8 +1762,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 3.3nF (332) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27148.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C26404" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1786,8 +1786,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 220pF (221) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1882.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1530" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1810,8 +1810,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 220nF (224) 10% 16V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17456.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C16772" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1834,8 +1834,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 2.2nF (222) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1883.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1531" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1858,8 +1858,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 150pF (151) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1879.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1527" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1882,8 +1882,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 10uF (106) 20% 6.3V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16204.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C15525" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1906,8 +1906,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 100nF (104) 10% 16V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1877.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1525" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1930,8 +1930,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 1.5nF (152) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24707.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C23967" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1954,8 +1954,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 1.0uF (105) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_53938.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C52923" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -1978,13 +1978,13 @@ F0 "C" -1 50 50 H V L BNN
 F1 "3216 10uF (106) 10% 16V" 49 150 50 H I L BNN
 F2 "lc_lib:CASE-A_3216" -1 -380 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7643.html" -1 -280 50 H I L BNN
-F4 "îãµçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -480 50 H I L BNN "ComponentLink1Description"
+F4 "é’½ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -480 50 H I L BNN "ComponentLink1Description"
 F6 "3216" -1 -580 50 H I L BNN "Package"
 F7 "LC" -1 -680 50 H I L BNN "Supplier"
 F8 "C7171" -1 -780 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -880 50 H I L BNN "Notepad"
-F10 "10uF (106) ¡À10% 16V" 149 50 50 H V L BNN "Comment"
+F10 "10uF (106) Â±10% 16V" 149 50 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 430 -180 430 -20 N
 P 2 1 1 10 400 -100 430 -100 N
@@ -2004,8 +2004,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 1nF (102) 10% 500V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_36187.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C35216" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2028,8 +2028,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 10uF (106) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14236.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C13585" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2052,8 +2052,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 10nF (103) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2198.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1846" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2076,8 +2076,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 68nF (683) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2108.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1756" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2100,8 +2100,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 47nF (473) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_54150.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C53134" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2124,8 +2124,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 33nF (333) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2091.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1739" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2148,8 +2148,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 22uF (226) 20% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_46786.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C45783" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2172,8 +2172,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 22nF (223) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2081.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1729" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2196,8 +2196,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 2.2nF (222) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_29010.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C28260" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2220,8 +2220,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 10uF (106) 10% 25V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16532.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C15850" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2244,8 +2244,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 10nF (103) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2062.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1710" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2268,8 +2268,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 100pF (101) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2142.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1790" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2292,8 +2292,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 100nF(104) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_50686.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C49678" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2316,8 +2316,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 68nF (683) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_32617.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C31658" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2340,8 +2340,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 47nF (473) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1974.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1622" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2364,8 +2364,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 33nF (333) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_21829.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C21117" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2388,8 +2388,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 330pF (331) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2016.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1664" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2412,8 +2412,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 27nF (273) 20% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2052.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1700" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2436,8 +2436,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 22nF (223) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_21834.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C21122" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2460,8 +2460,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 15nF (153) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1948.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1596" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2484,8 +2484,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 12nF (123) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1945.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1593" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2508,8 +2508,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 10uF (106) 10% 10V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_20411.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C19702" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2532,8 +2532,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 10nF (103) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_58143.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C57112" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2556,8 +2556,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 100pF (101) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15530.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C14858" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2580,8 +2580,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 33nF (333) 20% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1937.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1585" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2604,8 +2604,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 330pF (331) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14182.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C13533" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2628,8 +2628,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 22nF (223) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1884.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1532" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2652,8 +2652,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 10nF (103) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15869.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C15195" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2676,8 +2676,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 100pF (101) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1898.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1546" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2700,8 +2700,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "1206 1uF (105) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:1206_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2200.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1848" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2724,8 +2724,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 68pF (680) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2186.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1834" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2748,8 +2748,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 56pF (560) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2180.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1828" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2772,8 +2772,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 47pF (470) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15529.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C14857" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2796,8 +2796,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 33pF (330) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2166.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1814" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2820,8 +2820,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 30pF (300) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2161.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1809" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2844,8 +2844,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 27pF (270) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8509.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C8031" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2868,8 +2868,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 22pF (220) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2156.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1804" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2892,8 +2892,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 20pF (200) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2150.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1798" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2916,8 +2916,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 1uF (105) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_29074.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C28323" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2940,8 +2940,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 1nF (102) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_52223.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C51210" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2964,8 +2964,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 18pF (180) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2149.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1797" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -2988,8 +2988,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 15pF (150) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2146.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1794" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3012,8 +3012,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 12pF (120) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2144.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1792" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3036,8 +3036,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0805 10pF (100) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0805_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2137.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1785" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3060,8 +3060,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 82pF (820) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2035.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1683" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3084,8 +3084,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 68pF (680) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_29012.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C28262" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3108,8 +3108,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 56pF (560) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_40131.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C39148" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3132,8 +3132,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 47pF (470) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2023.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1671" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3156,8 +3156,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 33pF (330) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2015.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1663" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3180,8 +3180,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 30pF (300) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_23122.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C22397" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3204,8 +3204,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 27pF (270) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2008.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1656" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3228,8 +3228,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 22pF (220) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2005.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1653" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3252,8 +3252,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 20pF (200) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2000.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1648" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3276,8 +3276,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1uF (105) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16531.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C15849" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3300,8 +3300,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 1nF (102) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1940.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1588" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3324,8 +3324,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 18pF (180) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1999.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1647" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3348,8 +3348,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 15pF (150) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1996.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1644" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3372,8 +3372,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 12pF (120) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_39506.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C38523" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3396,8 +3396,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0603 10pF (100) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0603_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1986.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1634" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3420,8 +3420,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 68pF (680) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15103.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C14441" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3444,8 +3444,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 56pF (560) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1924.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1572" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3468,8 +3468,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 47pF (470) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1919.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1567" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3492,8 +3492,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 33pF (330) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1914.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1562" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3516,8 +3516,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 30pF (300) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1922.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1570" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3540,8 +3540,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 27pF (270) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1909.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1557" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3564,8 +3564,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 22pF (220) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1907.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1555" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3588,8 +3588,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 20pF (200) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1906.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1554" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3612,8 +3612,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 1nF (102) 10% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1875.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1523" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3636,8 +3636,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 18pF (180) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1901.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1549" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3660,8 +3660,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 15pF (150) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1900.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1548" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3684,8 +3684,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 12pF (120) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1899.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C1547" -1 -680 50 H I L BNN "SuppliersPartNumber"
@@ -3708,8 +3708,8 @@ F0 "C" -1 130 50 H V L BNN
 F1 "0402 10pF (100) 5% 50V" 49 230 50 H I L BNN
 F2 "lc_lib:0402_C" -1 -280 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33914.html" -1 -180 50 H I L BNN
-F4 "ÌùÆ¬µçÈÝ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -380 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µå®¹" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -380 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -480 50 H I L BNN "Package"
 F7 "LC" -1 -580 50 H I L BNN "Supplier"
 F8 "C32949" -1 -680 50 H I L BNN "SuppliersPartNumber"

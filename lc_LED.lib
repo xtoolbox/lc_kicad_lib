@@ -1,20 +1,20 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 0805 ╩ф╣ф
+# 0805 И╩└Г│╞
 #
-DEF 0805_╩ф╣ф D 0 40 N N 1 F N
+DEF 0805_И╩└Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0805 ╩ф╣ф" 49 260 50 H I L BNN
+F1 "0805 И╩└Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2669.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2296" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╩ф╣ф 0805" 149 160 50 H V L BNN "Comment"
+F10 "И╩└Г│╞ 0805" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -27,20 +27,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0805 ю╤╣ф
+# 0805 Х⌠²Г│╞
 #
-DEF 0805_ю╤╣ф D 0 40 N N 1 F N
+DEF 0805_Х⌠²Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0805 ю╤╣ф" 49 260 50 H I L BNN
+F1 "0805 Х⌠²Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2666.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2293" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "ю╤╣ф 0805" 149 160 50 H V L BNN "Comment"
+F10 "Х⌠²Г│╞ 0805" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -53,20 +53,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0805 ╢Дбл
+# 0805 Г©═Г╩©
 #
-DEF 0805_╢Дбл D 0 40 N N 1 F N
+DEF 0805_Г©═Г╩© D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0805 ╢Дбл" 49 260 50 H I L BNN
+F1 "0805 Г©═Г╩©" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2670.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2297" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╢Дбл 0805" 149 160 50 H V L BNN "Comment"
+F10 "Г©═Г╩© 0805" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -79,20 +79,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0805 ╨Л╣ф
+# 0805 Г╨╒Г│╞
 #
-DEF 0805_╨Л╣ф D 0 40 N N 1 F N
+DEF 0805_Г╨╒Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0805 ╨Л╣ф" 49 260 50 H I L BNN
+F1 "0805 Г╨╒Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2668.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2295" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╨Л╣ф 0805" 149 160 50 H V L BNN "Comment"
+F10 "Г╨╒Г│╞ 0805" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -105,20 +105,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0805 ╟в╣ф
+# 0805 Г≥╫Г│╞
 #
-DEF 0805_╟в╣ф D 0 40 N N 1 F N
+DEF 0805_Г≥╫Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0805 ╟в╣ф" 49 260 50 H I L BNN
+F1 "0805 Г≥╫Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_35468.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C34499" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╟в╣ф 0805" 149 160 50 H V L BNN "Comment"
+F10 "Г≥╫Г│╞ 0805" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -131,20 +131,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0603 ╩ф╣ф
+# 0603 И╩└Г│╞
 #
-DEF 0603_╩ф╣ф D 0 40 N N 1 F N
+DEF 0603_И╩└Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0603 ╩ф╣ф" 49 260 50 H I L BNN
+F1 "0603 И╩└Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_73147.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C72038" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╩ф╣ф 0603" 149 160 50 H V L BNN "Comment"
+F10 "И╩└Г│╞ 0603" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -157,20 +157,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0603 ю╤╣ф
+# 0603 Х⌠²Г│╞
 #
-DEF 0603_ю╤╣ф D 0 40 N N 1 F N
+DEF 0603_Х⌠²Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0603 ю╤╣ф" 49 260 50 H I L BNN
+F1 "0603 Х⌠²Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_73150.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C72041" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "ю╤╣ф 0603" 149 160 50 H V L BNN "Comment"
+F10 "Х⌠²Г│╞ 0603" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -183,20 +183,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0603 бл╣ф
+# 0603 Г╩©Г│╞
 #
-DEF 0603_бл╣ф D 0 40 N N 1 F N
+DEF 0603_Г╩©Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0603 бл╣ф" 49 260 50 H I L BNN
+F1 "0603 Г╩©Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_73152.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C72043" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "бл╣ф 0603" 149 160 50 H V L BNN "Comment"
+F10 "Г╩©Г│╞ 0603" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -209,20 +209,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0603 ╨Л╣ф
+# 0603 Г╨╒Г│╞
 #
-DEF 0603_╨Л╣ф D 0 40 N N 1 F N
+DEF 0603_Г╨╒Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0603 ╨Л╣ф" 49 260 50 H I L BNN
+F1 "0603 Г╨╒Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2659.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2286" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╨Л╣ф 0603" 149 160 50 H V L BNN "Comment"
+F10 "Г╨╒Г│╞ 0603" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N
@@ -235,20 +235,20 @@ X K K 800 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0603 ╟в╣ф
+# 0603 Г≥╫Г│╞
 #
-DEF 0603_╟в╣ф D 0 40 N N 1 F N
+DEF 0603_Г≥╫Г│╞ D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
-F1 "0603 ╟в╣ф" 49 260 50 H I L BNN
+F1 "0603 Г≥╫Г│╞" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_2663.html" -1 -300 50 H I L BNN
-F4 "╥╒╧Б╤Ч╪╚╧э" 0 0 50 H I C CNN "description"
-F5 "╧╘с╕ила╢╫с" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "Е▐▒Е┘┴Д╨▄Ф·│Г╝║" 0 0 50 H I C CNN "description"
+F5 "Д╬⌡Е╨■Е∙├И⌠╬Ф▌╔" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C2290" -1 -800 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -900 50 H I L BNN "Notepad"
-F10 "╟в╣ф 0603" 149 160 50 H V L BNN "Comment"
+F10 "Г≥╫Г│╞ 0603" 149 160 50 H V L BNN "Comment"
 DRAW
 P 4 1 1 10 500 -200 600 -100 500 0 500 -200 f
 P 2 1 1 10 640 0 710 70 N

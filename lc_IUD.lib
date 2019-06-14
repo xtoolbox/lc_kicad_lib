@@ -1,20 +1,20 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 0805 600¦¸ 25% 100MHz
+# 0805 600Î© 25% 100MHz
 #
-DEF 0805_600¦¸_25%_100MHz FB 0 40 N N 1 F N
+DEF 0805_600Î©_25%_100MHz FB 0 40 N N 1 F N
 F0 "FB" -1 200 50 H V L BNN
-F1 "0805 600¦¸ 25% 100MHz" 49 300 50 H I L BNN
+F1 "0805 600Î© 25% 100MHz" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1369.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬´ÅÖé" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç£ç " 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1017" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "600¦¸ ¡À25% 100MHz" 149 200 50 H V L BNN "Comment"
+F10 "600Î© Â±25% 100MHz" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -31,20 +31,20 @@ X 2 2 1000 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 0805 100¦¸ 25% 100MHz
+# 0805 100Î© 25% 100MHz
 #
-DEF 0805_100¦¸_25%_100MHz FB 0 40 N N 1 F N
+DEF 0805_100Î©_25%_100MHz FB 0 40 N N 1 F N
 F0 "FB" -1 200 50 H V L BNN
-F1 "0805 100¦¸ 25% 100MHz" 49 300 50 H I L BNN
+F1 "0805 100Î© 25% 100MHz" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1367.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬´ÅÖé" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç£ç " 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1015" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "100¦¸ ¡À25% 100MHz" 149 200 50 H V L BNN "Comment"
+F10 "100Î© Â±25% 100MHz" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -68,13 +68,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 68nH 5% 0603" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14064.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C13415" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "68nH ¡À5% 0603" 149 200 50 H V L BNN "Comment"
+F10 "68nH Â±5% 0603" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -98,13 +98,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 4.7nH 0.3nH" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1382.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1030" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "4.7nH ¡À0.3nH" 149 200 50 H V L BNN "Comment"
+F10 "4.7nH Â±0.3nH" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -128,13 +128,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 3.9nH 0.3nH" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14473.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C13818" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "3.9nH ¡À0.3nH" 149 200 50 H V L BNN "Comment"
+F10 "3.9nH Â±0.3nH" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -158,8 +158,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 4.7nH 0.3nH" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14246.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C13595" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -188,8 +188,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 3.3nH 0.3nH" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27873.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C27124" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -218,8 +218,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 2.7nH 0.3nH" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27872.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C27123" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -248,13 +248,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "1206 4.7uH  10%" 49 300 50 H I L BNN
 F2 "lc_lib:1206_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1401.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1049" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "4.7uH  ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "4.7uH  Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -278,13 +278,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 2.2uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1395.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1043" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "2.2uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "2.2uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -308,13 +308,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 100uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_69137.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C68035" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "100uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "100uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -338,13 +338,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 4.7uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1386.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1034" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "4.7uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "4.7uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -368,13 +368,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "1206 10uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:1206_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1403.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "1206" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1051" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "10uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "10uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -398,13 +398,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 47uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14964.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C14304" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "47uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "47uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -428,13 +428,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 3.3uH10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_52738.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C51725" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "3.3uH¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "3.3uHÂ±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -458,13 +458,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 22uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33340.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C32375" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "22uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "22uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -488,13 +488,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 10uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1398.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1046" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "10uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "10uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -518,13 +518,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 8.2nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1384.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1032" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "8.2nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "8.2nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -548,13 +548,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 10uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1387.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1035" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "10uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "10uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -578,8 +578,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 8.2nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16890.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C16208" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -608,8 +608,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 6.8nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33003.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C32041" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -638,8 +638,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 3.9nH 3%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14690.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C14033" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -668,8 +668,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 12nH  5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_25303.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C24563" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -698,13 +698,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0805 1uH 10%" 49 300 50 H I L BNN
 F2 "lc_lib:0805_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_1394.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0805" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C1042" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "1uH ¡À10%" 149 200 50 H V L BNN "Comment"
+F10 "1uH Â±10%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -728,13 +728,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 33nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_36021.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C35050" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "33nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "33nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -758,13 +758,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 27nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12685.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C12100" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "27nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "27nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -788,13 +788,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 22nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12684.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C12099" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "22nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "22nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -818,13 +818,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 12nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_30010.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C29258" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "12nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "12nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -848,13 +848,13 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 10nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16347.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C15666" -1 -650 50 H I L BNN "SuppliersPartNumber"
 F9 "" -1 -750 50 H I L BNN "Notepad"
-F10 "10nH ¡À5%" 149 200 50 H V L BNN "Comment"
+F10 "10nH Â±5%" 149 200 50 H V L BNN "Comment"
 DRAW
 P 2 1 1 10 400 100 800 100 N
 P 2 1 1 10 800 150 400 150 N
@@ -878,8 +878,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 27nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_19533.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C18830" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -908,8 +908,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 15nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27892.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C27143" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -938,8 +938,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 10nH 5%" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27896.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C27147" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -968,8 +968,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0603 47nH" 49 300 50 H I L BNN
 F2 "lc_lib:0603_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_30437.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0603" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C29683" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -998,8 +998,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 39nH" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27187.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C26443" -1 -650 50 H I L BNN "SuppliersPartNumber"
@@ -1028,8 +1028,8 @@ F0 "L" -1 200 50 H V L BNN
 F1 "0402 18nH" 49 300 50 H I L BNN
 F2 "lc_lib:0402_L" -1 -250 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_25302.html" -1 -150 50 H I L BNN
-F4 "ÌùÆ¬µç¸Ğ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -350 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡ç”µæ„Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -350 50 H I L BNN "ComponentLink1Description"
 F6 "0402" -1 -450 50 H I L BNN "Package"
 F7 "LC" -1 -550 50 H I L BNN "Supplier"
 F8 "C24562" -1 -650 50 H I L BNN "SuppliersPartNumber"

@@ -9,7 +9,7 @@ F1 "EEPROM/AT24C256C-SSHL-T_[C6482]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6947.html" -1 -600 50 H I L BNN
 F4 "EEPROM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C6482" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -35,8 +35,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "LM2596SX-5.0/NOPB_[C10002]" 49 150 50 H I L BNN
 F2 "lc_lib:TO-263-5" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10538.html" -1 -700 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "TO-263-5" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C10002" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -59,8 +59,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "ACS712ELCTR-20A-T_[C10681]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_11225.html" -1 -600 50 H I L BNN
-F4 "´«¸ĞÆ÷" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "ä¼ æ„Ÿå™¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C10681" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -70,7 +70,7 @@ DRAW
 S 300 -500 1000 0 1 1 0 f
 X IP+ 1 0 -100 300 R 50 50 1 1 P
 X IP+ 2 0 -200 300 R 50 50 1 1 P
-X IP¨C 3 0 -300 300 R 50 50 1 1 P
+X IP?? 3 0 -300 300 R 50 50 1 1 P
 X IP- 4 0 -400 300 R 50 50 1 1 P
 X GND 5 1300 -400 300 L 50 50 1 1 P
 X FILTER 6 1300 -300 300 L 50 50 1 1 P
@@ -86,8 +86,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "SN74LVC4245APWRG4_[C7859]" 49 150 50 H I L BNN
 F2 "lc_lib:TSSOP-24" -1 -1500 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8336.html" -1 -1400 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1600 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1600 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-24" -1 -1700 50 H I L BNN "Package"
 F7 "LC" -1 -1800 50 H I L BNN "Supplier"
 F8 "C7859" -1 -1900 50 H I L BNN "SuppliersPartNumber"
@@ -130,7 +130,7 @@ F1 "CAN/SN65HVD230DR_[C12084]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12661.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C12084" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -157,7 +157,7 @@ F1 "CAN/PCA82C250T/YM_[C7439]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7916.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C7439" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -184,7 +184,7 @@ F1 "W25Q128FVSIGTR_[C110643]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_208MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_111868.html" -1 -600 50 H I L BNN
 F4 "Flash ROM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C110643" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -211,7 +211,7 @@ F1 "SP3232EEY-L/TR_[C13482]" 49 150 50 H I L BNN
 F2 "lc_lib:TSSOP-16" -1 -1700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14131.html" -1 -1600 50 H I L BNN
 F4 "RS232" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1800 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-16" -1 -1900 50 H I L BNN "Package"
 F7 "LC" -1 -2000 50 H I L BNN "Supplier"
 F8 "C13482" -1 -2100 50 H I L BNN "SuppliersPartNumber"
@@ -261,8 +261,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MP2303ADN-LF-Z_[C18876]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_EP_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_19579.html" -1 -600 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_EP_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C18876" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -288,8 +288,8 @@ F0 "U" -1 350 50 H V L BNN
 F1 "LM386MX-1/NOPB_[C23573]" 49 450 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24309.html" -1 -500 50 H I L BNN
-F4 "¹¦·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "åŠŸæ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C23573" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -315,8 +315,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "ICL7660AIBAZA-T_[C7881]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8358.html" -1 -600 50 H I L BNN
-F4 "µçÔ´Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæºèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C7881" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -342,8 +342,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "EL357N(B)(TA)-G_[C6649]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-4_P2.54" -1 -560 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7114.html" -1 -460 50 H I L BNN
-F4 "ÌùÆ¬¹âñî" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -660 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡å…‰è€¦" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -660 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-4_P2.54" -1 -760 50 H I L BNN "Package"
 F7 "LC" -1 -860 50 H I L BNN "Supplier"
 F8 "C6649" -1 -960 50 H I L BNN "SuppliersPartNumber"
@@ -384,7 +384,7 @@ F1 "CAN/TJA1051T/3_[C38695]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_39678.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C38695" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -411,7 +411,7 @@ F1 "CAN/TJA1050T/CM_[C6952]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7424.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C6952" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -438,7 +438,7 @@ F1 "CAN/TJA1040T/CM_[C6951]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7423.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C6951" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -464,8 +464,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "ADUM1201ARZ-RL7_[C9669]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10199.html" -1 -600 50 H I L BNN
-F4 "¸ôÀëÆ÷" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "éš”ç¦»å™¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C9669" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -491,8 +491,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TPS61040DBVRG4_[C7722]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-5" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8199.html" -1 -500 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-5" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C7722" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -515,8 +515,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "PCF8563T/5,518_[C7440]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7917.html" -1 -600 50 H I L BNN
-F4 "ÊµÊ±Ê±ÖÓ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "å®æ—¶æ—¶é’Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C7440" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -542,8 +542,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MP2451DT-LF-Z_[C14123]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14780.html" -1 -500 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C14123" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -567,8 +567,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MP2359DJ-LF-Z_[C14259]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14917.html" -1 -500 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C14259" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -592,8 +592,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MP1584EN-LF-Z_[C15051]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_EP_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15724.html" -1 -600 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_EP_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C15051" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -620,7 +620,7 @@ F1 "M24C64-RMN6TP_[C79988]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_81133.html" -1 -900 50 H I L BNN
 F4 "EEPROM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C79988" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -647,7 +647,7 @@ F1 "CP2104-F03-GM_[C47742]" 49 650 50 H I L BNN
 F2 "lc_lib:QFN-24_4X4X05P" -1 -1600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_48747.html" -1 -1500 50 H I L BNN
 F4 "USB" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1700 50 H I L BNN "ComponentLink1Description"
 F6 "QFN-24_4x4x05P" -1 -1800 50 H I L BNN "Package"
 F7 "LC" -1 -1900 50 H I L BNN "Supplier"
 F8 "C47742" -1 -2000 50 H I L BNN "SuppliersPartNumber"
@@ -689,8 +689,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "CC2530F256RHAT_[C9120]" 49 150 50 H I L BNN
 F2 "lc_lib:QFN-40_6X6X05P" -1 -2400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9643.html" -1 -2300 50 H I L BNN
-F4 "ÎŞÏß" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2500 50 H I L BNN "ComponentLink1Description"
+F4 "æ— çº¿" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -2500 50 H I L BNN "ComponentLink1Description"
 F6 "QFN-40_6x6x05P" -1 -2600 50 H I L BNN "Package"
 F7 "LC" -1 -2700 50 H I L BNN "Supplier"
 F8 "C9120" -1 -2800 50 H I L BNN "SuppliersPartNumber"
@@ -748,8 +748,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "AM26LS32ACDRG4_[C6180]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6646.html" -1 -1000 50 H I L BNN
-F4 "½Ó¿ÚĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "æ¥å£èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C6180" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -783,8 +783,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "XL1509-ADJE1_[C74192]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_75311.html" -1 -600 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C74192" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -810,8 +810,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "XL1509-5.0E1_[C61063]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_62115.html" -1 -600 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C61063" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -838,7 +838,7 @@ F1 "W25Q128FVSIG_[C35101]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_208MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_36072.html" -1 -600 50 H I L BNN
 F4 "Flash ROM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C35101" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -864,8 +864,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "UC3843BD1R2G_[C16414]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17096.html" -1 -800 50 H I L BNN
-F4 "¿ª¹ØµçÔ´" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F4 "å¼€å…³ç”µæº" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C16414" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -892,7 +892,7 @@ F1 "SRV05-4-P-T7_[C85364]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_86537.html" -1 -500 50 H I L BNN
 F4 "TVS" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C85364" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -917,7 +917,7 @@ F1 "SP485EEN-L/TR_[C6855]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7327.html" -1 -800 50 H I L BNN
 F4 "RS-485/RS-422" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C6855" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -944,7 +944,7 @@ F1 "SP3485EN-L/TR_[C8963]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9482.html" -1 -800 50 H I L BNN
 F4 "RS-485/RS-422" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C8963" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -971,7 +971,7 @@ F1 "PSM712-LF-T7_[C32677]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23(SOT-23-3)" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33642.html" -1 -500 50 H I L BNN
 F4 "TVS" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23(SOT-23-3)" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C32677" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1004,8 +1004,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "MCP6002T-I/SN_[C7377]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7854.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7377" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1047,7 +1047,7 @@ F1 "MCP2515-I/SO_[C12368]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-18_300MIL" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12992.html" -1 -2000 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-18_300mil" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C12368" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -1083,8 +1083,8 @@ F0 "U" -1 250 50 H V L BNN
 F1 "MC34063ADR2G_[C32078]" 49 350 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33041.html" -1 -500 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C32078" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1111,7 +1111,7 @@ F1 "M24C02-WMN6TP_[C7562]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8039.html" -1 -900 50 H I L BNN
 F4 "EEPROM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C7562" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -1137,8 +1137,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "LMV321IDBVRG4_[C7972]" -350 550 50 H I L BNN
 F2 "lc_lib:SOT-23-5" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8449.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-5" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7972" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1168,8 +1168,8 @@ F0 "U" -1 350 50 H V L BNN
 F1 "LM2576SX-5.0_[C34465]" 49 450 50 H I L BNN
 F2 "lc_lib:TO-263-5" -1 -500 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_35434.html" -1 -400 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -600 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -600 50 H I L BNN "ComponentLink1Description"
 F6 "TO-263-5" -1 -700 50 H I L BNN "Package"
 F7 "LC" -1 -800 50 H I L BNN "Supplier"
 F8 "C34465" -1 -900 50 H I L BNN "SuppliersPartNumber"
@@ -1192,8 +1192,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "CJ431 0.5%431_[C3113]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23(SOT-23-3)" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_3500.html" -1 -700 50 H I L BNN
-F4 "µçÑ¹»ù×¼" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µå‹åŸºå‡†" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C3113" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -1217,8 +1217,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "AM26LS31CDRG4_[C6179]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6645.html" -1 -1000 50 H I L BNN
-F4 "½Ó¿ÚĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "æ¥å£èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C6179" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -1252,8 +1252,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "AD620ARZ-REEL_[C9675]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10205.html" -400 -500 50 H I L BNN
-F4 "ÒÇ·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ä»ªæ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C9675" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1289,8 +1289,8 @@ F0 "U" -1 150 50 H V L BNN
 F1 "MC33063ADR2G_[C7296]" 49 250 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7773.html" -1 -600 50 H I L BNN
-F4 "¿ª¹ØµçÔ´" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "å¼€å…³ç”µæº" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C7296" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -1317,7 +1317,7 @@ F1 "ISO1050DUBR_[C16428]" 49 150 50 H I L BNN
 F2 "lc_lib:SMD-8_6.3MM" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17110.html" -1 -600 50 H I L BNN
 F4 "CAN" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-8_6.3mm" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C16428" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -1344,7 +1344,7 @@ F1 "FT232RL-REEL_[C8690]" 49 150 50 H I L BNN
 F2 "lc_lib:SSOP-28_208MIL" -1 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9194.html" -1 -2900 50 H I L BNN
 F4 "USB" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "SSOP-28_208mil" -1 -3200 50 H I L BNN "Package"
 F7 "LC" -1 -3300 50 H I L BNN "Supplier"
 F8 "C8690" -1 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -1390,8 +1390,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "DS3231M+TRL_[C37663]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-16_300MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_38643.html" -1 -1000 50 H I L BNN
-F4 "ÊµÊ±Ê±ÖÓ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "å®æ—¶æ—¶é’Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_300mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C37663" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -1425,8 +1425,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "DP83848CVVX_[C16688]" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1 -3600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17371.html" -1 -3500 50 H I L BNN
-F4 "½Ó¿ÚĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3700 50 H I L BNN "ComponentLink1Description"
+F4 "æ¥å£èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -3700 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1 -3800 50 H I L BNN "Package"
 F7 "LC" -1 -3900 50 H I L BNN "Supplier"
 F8 "C16688" -1 -4000 50 H I L BNN "SuppliersPartNumber"
@@ -1492,8 +1492,8 @@ F0 "U" -1 550 50 H V L BNN
 F1 "ULN2003AFWG_[C5437]" 49 650 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_5880.html" -1 -600 50 H I L BNN
-F4 "´óµçÁ÷Çı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "å¤§ç”µæµé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C5437" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -1527,8 +1527,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TPS5430DDAR_[C9864]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-8_EP_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10396.html" -1 -800 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-8_EP_150mil" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C9864" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -1555,8 +1555,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "NRF24L01P-R_[C8791]" 49 150 50 H I L BNN
 F2 "lc_lib:QFN-20_4X4X05P" -1 -1600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9305.html" -1 -1500 50 H I L BNN
-F4 "ÎŞÏß" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1700 50 H I L BNN "ComponentLink1Description"
+F4 "æ— çº¿" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1700 50 H I L BNN "ComponentLink1Description"
 F6 "QFN-20_4x4x05P" -1 -1800 50 H I L BNN "Package"
 F7 "LC" -1 -1900 50 H I L BNN "Supplier"
 F8 "C8791" -1 -2000 50 H I L BNN "SuppliersPartNumber"
@@ -1594,8 +1594,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "LM2904DR2G_[C18229]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_18922.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C18229" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1638,8 +1638,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "DS1302Z+T&R_[C8959]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9478.html" -1 -800 50 H I L BNN
-F4 "ÊµÊ±Ê±ÖÓ" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F4 "å®æ—¶æ—¶é’Ÿ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C8959" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -1665,8 +1665,8 @@ F0 "U" -1 750 50 H V L BNN
 F1 "CD4051BM96_[C21379]" 49 850 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_22096.html" -1 -1000 50 H I L BNN
-F4 "4000ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "4000ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C21379" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -1700,8 +1700,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "ADM2483BRWZ_[C9637]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-16_300MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10167.html" -1 -1000 50 H I L BNN
-F4 "½Ó¿ÚĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "æ¥å£èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_300mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C9637" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -1735,8 +1735,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "6N137S(TA)_[C16496]" 49 150 50 H I L BNN
 F2 "lc_lib:SMD-8_6.3MM" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17178.html" -1 -600 50 H I L BNN
-F4 "ÌùÆ¬¹âñî" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "è´´ç‰‡å…‰è€¦" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SMD-8_6.3mm" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C16496" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -1778,8 +1778,8 @@ F0 "U" -1 550 50 H V L BNN
 F1 "ULN2803ADW_[C9683]" 49 650 50 H I L BNN
 F2 "lc_lib:SOIC-18_300MIL" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10213.html" -1 -700 50 H I L BNN
-F4 "´óµçÁ÷Çı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "å¤§ç”µæµé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-18_300mil" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C9683" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -1815,8 +1815,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TPS54331DR_[C9865]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10397.html" -1 -600 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C9865" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -1843,7 +1843,7 @@ F1 "SN75176BDR_[C7063]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7535.html" -1 -800 50 H I L BNN
 F4 "RS-485/RS-422" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C7063" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -1870,7 +1870,7 @@ F1 "SMF05CT1G_[C15879]" 49 150 50 H I L BNN
 F2 "lc_lib:SC-70-6(SOT-363)" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16561.html" -1 -500 50 H I L BNN
 F4 "TVS" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SC-70-6(SOT-363)" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C15879" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -1909,7 +1909,7 @@ F1 "MAX232ESE_[C26860]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1500 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_27608.html" -1 -1400 50 H I L BNN
 F4 "RS232" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1600 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1600 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1700 50 H I L BNN "Package"
 F7 "LC" -1 -1800 50 H I L BNN "Supplier"
 F8 "C26860" -1 -1900 50 H I L BNN "SuppliersPartNumber"
@@ -1944,7 +1944,7 @@ F1 "CP2102-GMR_[C6568]" -150 1450 50 H I L BNN
 F2 "lc_lib:QFN-28_5X5X05P" -200 -1900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7033.html" -200 -1800 50 H I L BNN
 F4 "USB" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -200 -2000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -200 -2000 50 H I L BNN "ComponentLink1Description"
 F6 "QFN-28_5x5x05P" -200 -2100 50 H I L BNN "Package"
 F7 "LC" -200 -2200 50 H I L BNN "Supplier"
 F8 "C6568" -200 -2300 50 H I L BNN "SuppliersPartNumber"
@@ -1980,8 +1980,8 @@ F0 "U" -1 750 50 H V L BNN
 F1 "CD4053BM96_[C6742]" 49 850 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7208.html" -1 -1000 50 H I L BNN
-F4 "4000ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "4000ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C6742" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -2015,8 +2015,8 @@ F0 "U" -1 750 50 H V L BNN
 F1 "CD4052BM96_[C6521]" 49 850 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6986.html" -1 -1000 50 H I L BNN
-F4 "4000ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "4000ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C6521" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -2050,8 +2050,8 @@ F0 "U" -1 650 50 H V L BNN
 F1 "TL494CDR_[C19882]" 49 750 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_20591.html" -1 -700 50 H I L BNN
-F4 "¿ª¹ØµçÔ´" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "å¼€å…³ç”µæº" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C19882" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -2085,8 +2085,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MPU-6050_[C24112]" 49 150 50 H I L BNN
 F2 "lc_lib:QFN-24_4X4X05P" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24852.html" -1 -2000 50 H I L BNN
-F4 "´«¸ĞÆ÷" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F4 "ä¼ æ„Ÿå™¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "QFN-24_4x4x05P" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C24112" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -2128,8 +2128,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "MP1482DS_[C14867]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_15539.html" -1 -600 50 H I L BNN
-F4 "µçÔ´Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæºèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C14867" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -2155,8 +2155,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "LMV324IDR_[C7974]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8451.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7974" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2219,8 +2219,8 @@ F0 "U" -1 450 50 H V L BNN
 F1 "LM393DR2G_[C7955]" 49 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8432.html" -1 -500 50 H I L BNN
-F4 "µçÑ¹±È½ÏÆ÷" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µå‹æ¯”è¾ƒå™¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C7955" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2261,8 +2261,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "LM358DR2G_[C7950]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8427.html" -400 -500 50 H I L BNN
-F4 "Í¨ÓÃÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "é€šç”¨è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7950" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2305,8 +2305,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "TL072CDT_[C6961]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7433.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C6961" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2347,8 +2347,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "NE5532DR_[C7426]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7903.html" -400 -500 50 H I L BNN
-F4 "¹¦·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "åŠŸæ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7426" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2391,8 +2391,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "LM324DT_[C71035]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_72134.html" -400 -500 50 H I L BNN
-F4 "ÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C71035" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2459,8 +2459,8 @@ F0 "U" -1 550 50 H V L BNN
 F1 "74HC595D_[C5947]" 49 650 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6413.html" -1 -800 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1000 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1000 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1100 50 H I L BNN "Package"
 F7 "LC" -1 -1200 50 H I L BNN "Supplier"
 F8 "C5947" -1 -1300 50 H I L BNN "SuppliersPartNumber"
@@ -2494,8 +2494,8 @@ F0 "U" -1 650 50 H V L BNN
 F1 "74HC573D_[C5608]" 49 750 50 H I L BNN
 F2 "lc_lib:SOIC-20_300MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6059.html" -1 -900 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-20_300mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C5608" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -2533,8 +2533,8 @@ F0 "U" -1 650 50 H V L BNN
 F1 "74HC245D_[C5625]" 49 750 50 H I L BNN
 F2 "lc_lib:SOIC-20_300MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6076.html" -1 -900 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-20_300mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C5625" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -2572,8 +2572,8 @@ F0 "U" -1 650 50 H V L BNN
 F1 "74HC244D_[C5622]" 49 750 50 H I L BNN
 F2 "lc_lib:SOIC-20_300MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6073.html" -1 -900 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-20_300mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C5622" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -2611,8 +2611,8 @@ F0 "U" -1 750 50 H V L BNN
 F1 "74HC165D_[C5613]" 49 850 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6064.html" -1 -1000 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1200 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1300 50 H I L BNN "Package"
 F7 "LC" -1 -1400 50 H I L BNN "Supplier"
 F8 "C5613" -1 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -2646,8 +2646,8 @@ F0 "U" -1 550 50 H V L BNN
 F1 "74HC164D_[C6825]" 49 650 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7297.html" -1 -700 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C6825" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -2679,8 +2679,8 @@ F0 "U" -1 550 50 H V L BNN
 F1 "74HC138D_[C5602]" 49 650 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6053.html" -1 -700 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -900 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -900 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1000 50 H I L BNN "Package"
 F7 "LC" -1 -1100 50 H I L BNN "Supplier"
 F8 "C5602" -1 -1200 50 H I L BNN "SuppliersPartNumber"
@@ -2714,8 +2714,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TP4057_[C12044]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12599.html" -1 -500 50 H I L BNN
-F4 "µç³ØµçÔ´¹ÜÀí" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæ± ç”µæºç®¡ç†" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C12044" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2739,8 +2739,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TP4056_[C16581]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-8_EP_150MIL" -1 -700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_17264.html" -1 -600 50 H I L BNN
-F4 "µç³ØµçÔ´¹ÜÀí" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -800 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæ± ç”µæºç®¡ç†" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -800 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-8_EP_150mil" -1 -900 50 H I L BNN "Package"
 F7 "LC" -1 -1000 50 H I L BNN "Supplier"
 F8 "C16581" -1 -1100 50 H I L BNN "SuppliersPartNumber"
@@ -2766,8 +2766,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TP4054_[C32574]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-5" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33539.html" -1 -500 50 H I L BNN
-F4 "µç³ØµçÔ´¹ÜÀí" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæ± ç”µæºç®¡ç†" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-5" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C32574" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2790,8 +2790,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TM1640_[C41327]" 49 150 50 H I L BNN
 F2 "lc_lib:SOP-28_300MIL" -1 -1700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_42311.html" -1 -1600 50 H I L BNN
-F4 "LEDÇı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1800 50 H I L BNN "ComponentLink1Description"
+F4 "LEDé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1800 50 H I L BNN "ComponentLink1Description"
 F6 "SOP-28_300mil" -1 -1900 50 H I L BNN "Package"
 F7 "LC" -1 -2000 50 H I L BNN "Supplier"
 F8 "C41327" -1 -2100 50 H I L BNN "SuppliersPartNumber"
@@ -2837,8 +2837,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TM1638_[C19187]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-28_300MIL" -1 -1700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_19892.html" -1 -1600 50 H I L BNN
-F4 "LEDÇı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1800 50 H I L BNN "ComponentLink1Description"
+F4 "LEDé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-28_300mil" -1 -1900 50 H I L BNN "Package"
 F7 "LC" -1 -2000 50 H I L BNN "Supplier"
 F8 "C19187" -1 -2100 50 H I L BNN "SuppliersPartNumber"
@@ -2884,8 +2884,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "TM1620_[C19579]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-20_300MIL" -1 -1300 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_20288.html" -1 -1200 50 H I L BNN
-F4 "LEDÇı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1400 50 H I L BNN "ComponentLink1Description"
+F4 "LEDé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1400 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-20_300mil" -1 -1500 50 H I L BNN "Package"
 F7 "LC" -1 -1600 50 H I L BNN "Supplier"
 F8 "C19579" -1 -1700 50 H I L BNN "SuppliersPartNumber"
@@ -2923,8 +2923,8 @@ F0 "U" -400 450 50 H V L BNN
 F1 "OP07CDR_[C7433]" -350 550 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -400 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_7910.html" -400 -500 50 H I L BNN
-F4 "¾«ÃÜÔË·Å" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -400 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ç²¾å¯†è¿æ”¾" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -400 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8" -400 -800 50 H I L BNN "Package"
 F7 "LC" -400 -900 50 H I L BNN "Supplier"
 F8 "C7433" -400 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2969,8 +2969,8 @@ F0 "U" -1 350 50 H V L BNN
 F1 "NE555DR_[C7593]" 49 450 50 H I L BNN
 F2 "lc_lib:SOIC-8_150MIL" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8070.html" -1 -500 50 H I L BNN
-F4 "Ê±»ù¼¯³É" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "æ—¶åŸºé›†æˆ" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-8_150mil" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C7593" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -2996,8 +2996,8 @@ F0 "U" -1 2350 50 H V L BNN
 F1 "HT1621B_[C7532]" 49 2450 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1 -1700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8009.html" -1 -1600 50 H I L BNN
-F4 "LCDÇı¶¯" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1800 50 H I L BNN "ComponentLink1Description"
+F4 "LCDé©±åŠ¨" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1800 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1 -1900 50 H I L BNN "Package"
 F7 "LC" -1 -2000 50 H I L BNN "Supplier"
 F8 "C7532" -1 -2100 50 H I L BNN "SuppliersPartNumber"
@@ -3063,8 +3063,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "FP6291_[C18701]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_19404.html" -1 -500 50 H I L BNN
-F4 "DC-DCĞ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "DC-DCèŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C18701" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -3088,8 +3088,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "DW01+G_[C14213]" 49 150 50 H I L BNN
 F2 "lc_lib:SOT-23-6" -1 -600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14870.html" -1 -500 50 H I L BNN
-F4 "µç³Ø±£»¤Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -700 50 H I L BNN "ComponentLink1Description"
+F4 "ç”µæ± ä¿æŠ¤èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -700 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23-6" -1 -800 50 H I L BNN "Package"
 F7 "LC" -1 -900 50 H I L BNN "Supplier"
 F8 "C14213" -1 -1000 50 H I L BNN "SuppliersPartNumber"
@@ -3114,7 +3114,7 @@ F1 "CH376S_[C14166]" 49 150 50 H I L BNN
 F2 "lc_lib:SOIC-28_300MIL" -1 -1700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14823.html" -1 -1600 50 H I L BNN
 F4 "USB" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1800 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-28_300mil" -1 -1900 50 H I L BNN "Package"
 F7 "LC" -1 -2000 50 H I L BNN "Supplier"
 F8 "C14166" -1 -2100 50 H I L BNN "SuppliersPartNumber"
@@ -3161,7 +3161,7 @@ F1 "CH340G_[C14267]" 49 250 50 H I L BNN
 F2 "lc_lib:SOIC-16_150MIL" -1 -1000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14927.html" -1 -900 50 H I L BNN
 F4 "USB" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -1100 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-16_150mil" -1 -1200 50 H I L BNN "Package"
 F7 "LC" -1 -1300 50 H I L BNN "Supplier"
 F8 "C14267" -1 -1400 50 H I L BNN "SuppliersPartNumber"
@@ -3196,8 +3196,8 @@ F0 "U" -1 355 50 H V L BNN
 F1 "74HC14D_[C5605]" 49 455 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -1 -505 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6056.html" -1 -405 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -605 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -605 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -1 -705 50 H I L BNN "Package"
 F7 "LC" -1 -805 50 H I L BNN "Supplier"
 F8 "C5605" -1 -905 50 H I L BNN "SuppliersPartNumber"
@@ -3252,8 +3252,8 @@ F0 "U" -1 255 50 H V L BNN
 F1 "74HC08D_[C5593]" 49 355 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -1 -605 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6044.html" -1 -505 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -705 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -705 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -1 -805 50 H I L BNN "Package"
 F7 "LC" -1 -905 50 H I L BNN "Supplier"
 F8 "C5593" -1 -1005 50 H I L BNN "SuppliersPartNumber"
@@ -3300,8 +3300,8 @@ F0 "U" -1 355 50 H V L BNN
 F1 "74HC04D_[C5590]" 49 455 50 H I L BNN
 F2 "lc_lib:SOIC-14_150MIL" -1 -505 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6041.html" -1 -405 50 H I L BNN
-F4 "74ÏµÁĞÂß¼­Ğ¾Æ¬" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -605 50 H I L BNN "ComponentLink1Description"
+F4 "74ç³»åˆ—é€»è¾‘èŠ¯ç‰‡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -605 50 H I L BNN "ComponentLink1Description"
 F6 "SOIC-14_150mil" -1 -705 50 H I L BNN "Package"
 F7 "LC" -1 -805 50 H I L BNN "Supplier"
 F8 "C5590" -1 -905 50 H I L BNN "SuppliersPartNumber"
@@ -3350,8 +3350,8 @@ F0 "U" -1 50 50 H V L BNN
 F1 "W5500_[C32843]" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1 -2900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33808.html" -1 -2800 50 H I L BNN
-F4 "ÒÔÌ«Íø" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3000 50 H I L BNN "ComponentLink1Description"
+F4 "ä»¥å¤ªç½‘" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -3000 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1 -3100 50 H I L BNN "Package"
 F7 "LC" -1 -3200 50 H I L BNN "Supplier"
 F8 "C32843" -1 -3300 50 H I L BNN "SuppliersPartNumber"

@@ -9,7 +9,7 @@ F1 "STC15F2K60S2-28I-LQFP44G" -1950 2250 50 H I L BNN
 F2 "lc_lib:LQFP-44_10X10X08P" -2000 -2300 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_30740.html" -2000 -2200 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -2000 -2400 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -2000 -2400 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-44_10x10x08P" -2000 -2500 50 H I L BNN "Package"
 F7 "LC" -2000 -2600 50 H I L BNN "Supplier"
 F8 "C29985" -2000 -2700 50 H I L BNN "SuppliersPartNumber"
@@ -72,7 +72,7 @@ F1 "STC12C5A60S2-35I" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-44_10X10X08P" -1 -2200 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9202.html" -1 -2100 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2300 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2300 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-44_10x10x08P" -1 -2400 50 H I L BNN "Package"
 F7 "LC" -1 -2500 50 H I L BNN "Supplier"
 F8 "C8696" -1 -2600 50 H I L BNN "SuppliersPartNumber"
@@ -135,7 +135,7 @@ F1 "MSP430F149IPMRG4" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P_Q2" -1 -3400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8068.html" -1 -3300 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3500 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3500 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -1 -3600 50 H I L BNN "Package"
 F7 "LC" -1 -3700 50 H I L BNN "Supplier"
 F8 "C7591" -1 -3800 50 H I L BNN "SuppliersPartNumber"
@@ -218,7 +218,7 @@ F1 "STM8L051F3P6TR" 49 150 50 H I L BNN
 F2 "lc_lib:TSSOP-20" -1 -1300 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_18776.html" -1 -1200 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1400 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -1400 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-20" -1 -1500 50 H I L BNN "Package"
 F7 "LC" -1 -1600 50 H I L BNN "Supplier"
 F8 "C18088" -1 -1700 50 H I L BNN "SuppliersPartNumber"
@@ -257,7 +257,7 @@ F1 "STC89C52RC-40I" 49 1550 50 H I L BNN
 F2 "lc_lib:LQFP-44_10X10X08P" -1 -1600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9213.html" -1 -1500 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -1700 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-44_10x10x08P" -1 -1800 50 H I L BNN "Package"
 F7 "LC" -1 -1900 50 H I L BNN "Supplier"
 F8 "C8707" -1 -2000 50 H I L BNN "SuppliersPartNumber"
@@ -320,7 +320,7 @@ F1 "STM8S105K6T6C" 49 1650 50 H I L BNN
 F2 "lc_lib:LQFP-32_7X7X08P" -1 -1900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8746.html" -1 -1800 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2000 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-32_7x7x08P" -1 -2100 50 H I L BNN "Package"
 F7 "LC" -1 -2200 50 H I L BNN "Supplier"
 F8 "C8254" -1 -2300 50 H I L BNN "SuppliersPartNumber"
@@ -371,7 +371,7 @@ F1 "STM32L151C8T6" -1150 1350 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1200 -1500 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_10393.html" -1200 -1400 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1200 -1600 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1200 -1600 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1200 -1700 50 H I L BNN "Package"
 F7 "LC" -1200 -1800 50 H I L BNN "Supplier"
 F8 "C9861" -1200 -1900 50 H I L BNN "SuppliersPartNumber"
@@ -439,7 +439,7 @@ F1 "STM32F429ZGT6" -2550 3850 50 H I L BNN
 F2 "lc_lib:LQFP-144_20X20X05P" -2600 -3800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_47529.html" -2600 -3700 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -2600 -3900 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -2600 -3900 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-144_20x20x05P" -2600 -4000 50 H I L BNN "Package"
 F7 "LC" -2600 -4100 50 H I L BNN "Supplier"
 F8 "C46525" -2600 -4200 50 H I L BNN "SuppliersPartNumber"
@@ -602,7 +602,7 @@ F1 "STM32F407VGT6" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -1 -3600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_12968.html" -1 -3500 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3700 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -1 -3800 50 H I L BNN "Package"
 F7 "LC" -1 -3900 50 H I L BNN "Supplier"
 F8 "C12345" -1 -4000 50 H I L BNN "SuppliersPartNumber"
@@ -725,7 +725,7 @@ F1 "STM32F407VET6" -4450 1750 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -4500 -2000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_29482.html" -4500 -1900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -4500 -2100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -4500 -2100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -4500 -2200 50 H I L BNN "Package"
 F7 "LC" -4500 -2300 50 H I L BNN "Supplier"
 F8 "C28730" -4500 -2400 50 H I L BNN "SuppliersPartNumber"
@@ -848,7 +848,7 @@ F1 "STM32F405RGT6" -6650 1750 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -6700 -2000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16424.html" -6700 -1900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -6700 -2100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -6700 -2100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -6700 -2200 50 H I L BNN "Package"
 F7 "LC" -6700 -2300 50 H I L BNN "Supplier"
 F8 "C15742" -6700 -2400 50 H I L BNN "SuppliersPartNumber"
@@ -934,7 +934,7 @@ F1 "STM32F107VCT6" 49 2750 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -1 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8807.html" -1 -2900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -1 -3200 50 H I L BNN "Package"
 F7 "LC" -1 -3300 50 H I L BNN "Supplier"
 F8 "C8315" -1 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -1054,7 +1054,7 @@ F1 "STM32F103ZET6" 49 3650 50 H I L BNN
 F2 "lc_lib:LQFP-144_20X20X05P" -1 -3900 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8779.html" -1 -3800 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -4000 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -4000 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-144_20x20x05P" -1 -4100 50 H I L BNN "Package"
 F7 "LC" -1 -4200 50 H I L BNN "Supplier"
 F8 "C8287" -1 -4300 50 H I L BNN "SuppliersPartNumber"
@@ -1218,7 +1218,7 @@ F1 "STM32F103VET6" 49 2750 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -1 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8800.html" -1 -2900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -1 -3200 50 H I L BNN "Package"
 F7 "LC" -1 -3300 50 H I L BNN "Supplier"
 F8 "C8308" -1 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -1338,7 +1338,7 @@ F1 "STM32F103VCT6" -550 2750 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -600 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8805.html" -600 -2900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -600 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -600 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -600 -3200 50 H I L BNN "Package"
 F7 "LC" -600 -3300 50 H I L BNN "Supplier"
 F8 "C8313" -600 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -1458,7 +1458,7 @@ F1 "STM32F103VBT6" 49 2750 50 H I L BNN
 F2 "lc_lib:LQFP-100_14X14X05P" -1 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8806.html" -1 -2900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-100_14x14x05P" -1 -3200 50 H I L BNN "Package"
 F7 "LC" -1 -3300 50 H I L BNN "Supplier"
 F8 "C8314" -1 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -1578,7 +1578,7 @@ F1 "STM32F103RET6" 49 1850 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8814.html" -1 -2000 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C8322" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -1662,7 +1662,7 @@ F1 "STM32F103RCT6" 49 1850 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8815.html" -1 -2000 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C8323" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -1746,7 +1746,7 @@ F1 "STM32F103RBT6" -750 1950 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -800 -2000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9244.html" -800 -1900 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -800 -2100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -800 -2100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -800 -2200 50 H I L BNN "Package"
 F7 "LC" -800 -2300 50 H I L BNN "Supplier"
 F8 "C8735" -800 -2400 50 H I L BNN "SuppliersPartNumber"
@@ -1830,7 +1830,7 @@ F1 "STM32F103R8T6" 49 1850 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_47037.html" -1 -2000 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C46034" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -1914,7 +1914,7 @@ F1 "STM32F103CBT6" -250 1350 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -300 -1500 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8796.html" -300 -1400 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -1600 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -1600 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -300 -1700 50 H I L BNN "Package"
 F7 "LC" -300 -1800 50 H I L BNN "Supplier"
 F8 "C8304" -300 -1900 50 H I L BNN "SuppliersPartNumber"
@@ -1982,7 +1982,7 @@ F1 "STM32F103C8T6" -850 1450 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -900 -1400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_9243.html" -900 -1300 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -900 -1500 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -900 -1500 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -900 -1600 50 H I L BNN "Package"
 F7 "LC" -900 -1700 50 H I L BNN "Supplier"
 F8 "C8734" -900 -1800 50 H I L BNN "SuppliersPartNumber"
@@ -2050,7 +2050,7 @@ F1 "STM32F030F4P6" 49 150 50 H I L BNN
 F2 "lc_lib:TSSOP-20" -1 -1300 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_33873.html" -1 -1200 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1400 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -1400 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-20" -1 -1500 50 H I L BNN "Package"
 F7 "LC" -1 -1600 50 H I L BNN "Supplier"
 F8 "C32908" -1 -1700 50 H I L BNN "SuppliersPartNumber"
@@ -2089,7 +2089,7 @@ F1 "STM32F030C8T6" 49 150 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1 -2700 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_24662.html" -1 -2600 50 H I L BNN
 F4 "ARM" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2800 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2800 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1 -2900 50 H I L BNN "Package"
 F7 "LC" -1 -3000 50 H I L BNN "Supplier"
 F8 "C23922" -1 -3100 50 H I L BNN "SuppliersPartNumber"
@@ -2156,7 +2156,7 @@ F1 "STM8S207R8T6" 49 1950 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -1 -2100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8748.html" -1 -2000 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2200 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -1 -2300 50 H I L BNN "Package"
 F7 "LC" -1 -2400 50 H I L BNN "Supplier"
 F8 "C8256" -1 -2500 50 H I L BNN "SuppliersPartNumber"
@@ -2239,7 +2239,7 @@ F1 "STM8S105C6T6" 49 2750 50 H I L BNN
 F2 "lc_lib:LQFP-48_7X7X05P" -1 -3000 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8745.html" -1 -2900 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -3100 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -3100 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-48_7x7x05P" -1 -3200 50 H I L BNN "Package"
 F7 "LC" -1 -3300 50 H I L BNN "Supplier"
 F8 "C8253" -1 -3400 50 H I L BNN "SuppliersPartNumber"
@@ -2306,7 +2306,7 @@ F1 "STM8S103F3P6" -1650 1250 50 H I L BNN
 F2 "lc_lib:TSSOP-20" -1700 -1100 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_56989.html" -1700 -1000 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1700 -1200 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1700 -1200 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-20" -1700 -1300 50 H I L BNN "Package"
 F7 "LC" -1700 -1400 50 H I L BNN "Supplier"
 F8 "C55961" -1700 -1500 50 H I L BNN "SuppliersPartNumber"
@@ -2345,7 +2345,7 @@ F1 "STM8S003F3P6" 49 150 50 H I L BNN
 F2 "lc_lib:TSSOP-20" -1 -2300 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_19317.html" -1 -2200 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -2400 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -2400 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-20" -1 -2500 50 H I L BNN "Package"
 F7 "LC" -1 -2600 50 H I L BNN "Supplier"
 F8 "C18615" -1 -2700 50 H I L BNN "SuppliersPartNumber"
@@ -2384,7 +2384,7 @@ F1 "STM8L152R8T6" -550 1850 50 H I L BNN
 F2 "lc_lib:LQFP-64_10X10X05P" -600 -2800 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_34065.html" -600 -2700 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -600 -2900 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -600 -2900 50 H I L BNN "ComponentLink1Description"
 F6 "LQFP-64_10x10x05P" -600 -3000 50 H I L BNN "Package"
 F7 "LC" -600 -3100 50 H I L BNN "Supplier"
 F8 "C33100" -600 -3200 50 H I L BNN "SuppliersPartNumber"
@@ -2467,7 +2467,7 @@ F1 "STM8L101F3P6" 49 1250 50 H I L BNN
 F2 "lc_lib:TSSOP-20" -1 -1600 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_30799.html" -1 -1500 50 H I L BNN
 F4 "MCU" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -1700 50 H I L BNN "ComponentLink1Description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -1 -1700 50 H I L BNN "ComponentLink1Description"
 F6 "TSSOP-20" -1 -1800 50 H I L BNN "Package"
 F7 "LC" -1 -1900 50 H I L BNN "Supplier"
 F8 "C30044" -1 -2000 50 H I L BNN "SuppliersPartNumber"

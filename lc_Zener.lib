@@ -8,8 +8,8 @@ F0 "D" -1 50 50 H V L BNN
 F1 "LL-34 ZMM5V6" 49 150 50 H I L BNN
 F2 "lc_lib:LL-34" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8541.html" -1 -300 50 H I L BNN
-F4 "ÎÈÑ¹¶ş¼«¹Ü" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "ç¨³å‹äºŒæç®¡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "LL-34" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C8062" -1 -800 50 H I L BNN "SuppliersPartNumber"
@@ -30,8 +30,8 @@ F0 "D" -1 50 50 H V L BNN
 F1 "LL-34 ZMM3V3" 49 150 50 H I L BNN
 F2 "lc_lib:LL-34" -1 -400 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_8535.html" -1 -300 50 H I L BNN
-F4 "ÎÈÑ¹¶ş¼«¹Ü" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -1 -500 50 H I L BNN "ComponentLink1Description"
+F4 "ç¨³å‹äºŒæç®¡" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æ¥" -1 -500 50 H I L BNN "ComponentLink1Description"
 F6 "LL-34" -1 -600 50 H I L BNN "Package"
 F7 "LC" -1 -700 50 H I L BNN "Supplier"
 F8 "C8056" -1 -800 50 H I L BNN "SuppliersPartNumber"

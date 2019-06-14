@@ -8,8 +8,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "TO-252-2 LM317AL-TN3-R" -250 650 50 H I L BNN
 F2 "lc_lib:TO-252-2-180" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_76635.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "TO-252-2" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C75510" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -31,8 +31,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "TO-252-2 L78M05ABDT-TR" -250 650 50 H I L BNN
 F2 "lc_lib:TO-252-2-180" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_59107.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "TO-252-2" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C58069" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -54,8 +54,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-89 78L12G-AB3-R" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_76626.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-89" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C75501" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -77,8 +77,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-89 78L05G-AB3-R" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_72235.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-89" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C71136" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -100,8 +100,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-23 XC6206P332MR" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-23-3L" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_5896.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-23" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C5446" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -123,8 +123,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-223 AMS1117-5.0" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-223" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6653.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-223" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C6187" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -146,8 +146,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-223 AMS1117-3.3" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-223" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_6652.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-223" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C6186" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -169,8 +169,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-89 HT7550-1" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_16788.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-89" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C16106" -300 -601 50 H I L BNN "SuppliersPartNumber"
@@ -192,8 +192,8 @@ F0 "VR" -300 550 50 H V L BNN
 F1 "SOT-89 HT7533-1" -250 650 50 H I L BNN
 F2 "lc_lib:SOT-89(SOT-89-3)" -300 -201 50 H I L BNN
 F3 "http://www.szlcsc.com/product/details_14949.html" -300 -101 50 H I L BNN
-F4 "µÍÑ¹²îÏßÐÔÎÈÑ¹(LDO)" 0 0 50 H I C CNN "description"
-F5 "¹©Ó¦ÉÌÁ´½Ó" -300 -301 50 H I L BNN "ComponentLink1Description"
+F4 "ä½ŽåŽ‹å·®çº¿æ€§ç¨³åŽ‹(LDO)" 0 0 50 H I C CNN "description"
+F5 "ä¾›åº”å•†é“¾æŽ¥" -300 -301 50 H I L BNN "ComponentLink1Description"
 F6 "SOT-89" -300 -401 50 H I L BNN "Package"
 F7 "LC" -300 -501 50 H I L BNN "Supplier"
 F8 "C14289" -300 -601 50 H I L BNN "SuppliersPartNumber"
